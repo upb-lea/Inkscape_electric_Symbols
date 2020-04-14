@@ -7,7 +7,7 @@ git clone git@github.com:upb-lea/Inkscape_electric_Symbols.git
 ```
 
 # Overview
-![](/Sorces/Overview.png)
+![](/Sources/Overview.png)
 
 # Using the library
 * Open Inkscape_Symbols_xxx and copy the symbols of interrest to your incscape sheet
