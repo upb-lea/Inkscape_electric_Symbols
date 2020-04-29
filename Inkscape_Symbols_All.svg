@@ -2208,6 +2208,22 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="scale(-0.4)" />
     </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-2-3-8"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5871-9-6-7"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2216,9 +2232,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568544"
-     inkscape:cx="436.54186"
-     inkscape:cy="409.98588"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="706.54052"
+     inkscape:cy="327.59949"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -13894,7 +13910,7 @@
          style="stroke-width:0.26458332">text 8p</tspan></text>
     <g
        id="g9184"
-       transform="translate(-3.9687543,3.9687467)">
+       transform="translate(-3.9687543,2.6458333)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -13992,7 +14008,7 @@
     </g>
     <g
        id="g9329"
-       transform="translate(6.614579,-2.6458333)">
+       transform="translate(6.614579,-3.9687467)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -16099,24 +16115,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="264.58334"
-       y="107.82291"
+       x="264.41245"
+       y="107.55212"
        id="text26053"><tspan
          sodipodi:role="line"
          id="tspan26051"
-         x="264.58334"
-         y="107.82291"
+         x="264.41245"
+         y="107.55212"
          style="stroke-width:0.26458332">Product</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="261.09277"
-       y="119.18483"
+       x="261.75146"
+       y="117.86192"
        id="text26057"><tspan
          sodipodi:role="line"
          id="tspan26055"
-         x="261.09277"
-         y="119.18483"
+         x="261.75146"
+         y="117.86192"
          style="stroke-width:0.26458332">Signal limitation</tspan></text>
     <text
        xml:space="preserve"
@@ -17133,6 +17149,66 @@
            x="155.15677"
            id="tspan7332-8-5"
            sodipodi:role="line">dq</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="262.66718"
+       y="128.40184"
+       id="text26057-6"><tspan
+         sodipodi:role="line"
+         id="tspan26055-1"
+         x="262.66718"
+         y="128.40184"
+         style="stroke-width:0.26458332">Integrator</tspan></text>
+    <g
+       id="g8134">
+      <g
+         transform="translate(1.3229057,-2.6458333)"
+         id="g7761">
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 265.90626,122.37499 h 5.29166"
+           id="path5718-0-9-1"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 265.90626,127.66665 h 5.29166"
+           id="path5718-0-1-2"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 265.90626,127.66665 v -5.29166"
+           id="path5718-0-2-70"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 271.19792,127.66665 v -5.29166"
+           id="path5718-0-2-7-9"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 269.34583,123.43332 c -1.05833,-1.5875 -0.52917,4.7625 -1.5875,3.175"
+           id="path5718-062"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5718-7-5-1-7-2"
+         d="m 266.59631,122.37499 h -1.99856"
+         style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-2-3-8)"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5718-7"
+         d="m 272.52083,122.37499 h 1.32292"
+         style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
