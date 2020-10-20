@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="Inkscape_Symbols_All.svg"
@@ -1851,6 +1852,139 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          transform="scale(-0.8)" />
     </marker>
+    <symbol
+       id="g16462">
+      <title
+         id="title3552">Fuse</title>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 30.427082,-106.48959 v -10.58334"
+         id="path5792-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 29.104165,-111.78128 v -2.64583 h 2.645834 v 5.29167 h -2.645834 v -2.64584"
+         id="path16220-0"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title3295">Fuse</title>
+    </symbol>
+    <symbol
+       id="g16467">
+      <title
+         id="title4954">Resistor</title>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 30.427082,-90.614597 V -93.26043"
+         id="path5792"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 30.427082,-98.552096 v -2.645834"
+         id="path5794"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 29.104165,-95.906262 v -2.645833 h 2.645834 v 5.291667 h -2.645834 v -2.645834"
+         id="path16220"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title3309">Resistor</title>
+    </symbol>
+    <symbol
+       id="g16474">
+      <title
+         id="title4956">Varistor</title>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 44.979166,-90.614594 v -2.645833"
+         id="path5792-6-2"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 44.979166,-98.552097 v -2.645833"
+         id="path5794-2-8"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.360416,-98.552097 -4.7625,5.29167"
+         id="path5718-7-5-6-8-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.360416,-99.610427 v 1.05833"
+         id="path5718-7-5-6-8-3-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 43.656248,-95.906276 v -2.64583 h 2.645834 v 5.29167 h -2.645834 v -2.64584"
+         id="path16220-4"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title3330">Varistor</title>
+    </symbol>
+    <symbol
+       id="g16480">
+      <title
+         id="title4958">Potentiometer</title>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 58.208333,-90.614594 v -2.645833"
+         id="path5792-6-2-0"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 58.208333,-98.552097 v -2.645833"
+         id="path5794-2-8-9"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-1-6-6)"
+         d="M 56.091667,-95.90626 H 54.239583"
+         id="path5718-7-5-6-8-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 56.885415,-95.906276 v -2.64583 h 2.645834 v 5.29167 h -2.645834 v -2.64584"
+         id="path16220-8"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title3361">Potentiometer</title>
+    </symbol>
+    <symbol
+       id="g20649">
+      <title
+         id="title4960">Potentiometer</title>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-1-6)"
+         d="m 76.52992,-99.019484 -5.291667,5.291667"
+         id="path5718-7-5-6-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g20630">
+        <path
+           inkscape:connector-curvature="0"
+           id="path5792-6"
+           d="m 74.083332,-91.281231 v -2.645833"
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5794-2"
+           d="m 74.083332,-99.218734 v -2.645836"
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path16220-1"
+           d="m 72.760415,-96.572913 v -2.64583 h 2.645834 v 5.29167 h -2.645834 v -2.64584"
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      </g>
+      <title
+         id="title3398">Potentiometer</title>
+    </symbol>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -1883,8 +2017,8 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="516.61947"
-     inkscape:cx="735.53333"
+     inkscape:cy="500.54407"
+     inkscape:cx="482.11168"
      inkscape:zoom="0.50000001"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -14735,133 +14869,6 @@
          id="path16210"
          inkscape:connector-curvature="0" />
     </g>
-    <g
-       transform="translate(3.3333333e-7,-0.66663667)"
-       id="g16467">
-      <title
-         id="title4954">Resistor</title>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 30.427082,-90.614597 V -93.26043"
-         id="path5792"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 30.427082,-98.552096 v -2.645834"
-         id="path5794"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         d="m 29.104165,-95.906262 v -2.645833 h 2.645834 v 5.291667 h -2.645834 v -2.645834"
-         id="path16220"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="translate(3.3333333e-7,-0.66663667)"
-       id="g16474">
-      <title
-         id="title4956">Varistor</title>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 44.979166,-90.614594 v -2.645833"
-         id="path5792-6-2"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 44.979166,-98.552097 v -2.645833"
-         id="path5794-2-8"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 47.360416,-98.552097 -4.7625,5.29167"
-         id="path5718-7-5-6-8-3"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 47.360416,-99.610427 v 1.05833"
-         id="path5718-7-5-6-8-3-8"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         d="m 43.656248,-95.906276 v -2.64583 h 2.645834 v 5.29167 h -2.645834 v -2.64584"
-         id="path16220-4"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="translate(3.3333333e-7,-0.66663667)"
-       id="g16480">
-      <title
-         id="title4958">Potentiometer</title>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 58.208333,-90.614594 v -2.645833"
-         id="path5792-6-2-0"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 58.208333,-98.552097 v -2.645833"
-         id="path5794-2-8-9"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-1-6-6)"
-         d="M 56.091667,-95.90626 H 54.239583"
-         id="path5718-7-5-6-8-9"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         d="m 56.885415,-95.906276 v -2.64583 h 2.645834 v 5.29167 h -2.645834 v -2.64584"
-         id="path16220-8"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g20649">
-      <title
-         id="title4960">Potentiometer</title>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-1-6)"
-         d="m 76.52992,-99.019484 -5.291667,5.291667"
-         id="path5718-7-5-6-8"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <g
-         id="g20630">
-        <path
-           inkscape:connector-curvature="0"
-           id="path5792-6"
-           d="m 74.083332,-91.281231 v -2.645833"
-           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path5794-2"
-           d="m 74.083332,-99.218734 v -2.645836"
-           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path16220-1"
-           d="m 72.760415,-96.572913 v -2.64583 h 2.645834 v 5.29167 h -2.645834 v -2.64584"
-           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      </g>
-    </g>
-    <g
-       transform="translate(3.3333333e-7,-0.66663667)"
-       id="g16462">
-      <title
-         id="title3552">Fuse</title>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 30.427082,-106.48959 v -10.58334"
-         id="path5792-7"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         d="m 29.104165,-111.78128 v -2.64583 h 2.645834 v 5.29167 h -2.645834 v -2.64584"
-         id="path16220-0"
-         inkscape:connector-curvature="0" />
-    </g>
     <text
        id="text16578"
        y="-48.987862"
@@ -18282,5 +18289,24 @@
          x="380.58453"
          id="tspan5189-7-6-44-5-6"
          sodipodi:role="line">Drawing Elements</tspan></text>
+    <use
+       xlink:href="#g16462"
+       id="use3300"
+       transform="translate(3.3333333e-7,-0.66663667)" />
+    <use
+       xlink:href="#g16467"
+       id="use3315"
+       transform="translate(3.3333333e-7,-0.66663667)" />
+    <use
+       xlink:href="#g16474"
+       id="use3338"
+       transform="translate(3.3333333e-7,-0.66663667)" />
+    <use
+       xlink:href="#g16480"
+       id="use3368"
+       transform="translate(3.3333333e-7,-0.66663667)" />
+    <use
+       xlink:href="#g20649"
+       id="use3406" />
   </g>
 </svg>
