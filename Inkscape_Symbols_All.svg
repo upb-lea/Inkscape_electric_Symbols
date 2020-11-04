@@ -1985,6 +1985,36 @@
       <title
          id="title3398">Potentiometer</title>
     </symbol>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1815"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         transform="scale(-0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1813"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1815-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         transform="scale(-0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1813-8"
+         inkscape:connector-curvature="0" />
+    </marker>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -2006,7 +2036,7 @@
      inkscape:window-maximized="1"
      inkscape:window-y="32"
      inkscape:window-x="0"
-     inkscape:window-height="1020"
+     inkscape:window-height="1140"
      inkscape:window-width="1920"
      inkscape:bbox-nodes="false"
      inkscape:snap-intersection-paths="false"
@@ -2017,9 +2047,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="500.54407"
-     inkscape:cx="482.11168"
-     inkscape:zoom="0.50000001"
+     inkscape:cy="180.50756"
+     inkscape:cx="672.66766"
+     inkscape:zoom="2.8284272"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -17951,7 +17981,7 @@
          y="-74.616615"
          x="203.57344"
          id="tspan5369"
-         sodipodi:role="line">αβγδεηθκλμνπρστυφψωϑϕ</tspan></text>
+         sodipodi:role="line">αβγδεηθκλμνπρστυφψωϑΦ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -17962,7 +17992,7 @@
          sodipodi:role="line"
          id="tspan5369-4"
          x="145.28726"
-         y="-74.221809">αβγδεηθκλμνπρστυφψωϑϕ</tspan></text>
+         y="-74.221809">αβγδεηθκλμνπρστυφψωϑΦ</tspan></text>
     <g
        id="g3650"
        transform="translate(3.9687493,-47.624984)">
@@ -18233,7 +18263,7 @@
          sodipodi:nodetypes="cc" />
     </g>
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.529998, 0.529998;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.53,0.53;stroke-dashoffset:0"
        id="rect10040"
        width="10.583333"
        height="2.6458333"
@@ -18308,5 +18338,31 @@
     <use
        xlink:href="#g20649"
        id="use3406" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#marker1815)"
+       id="path844"
+       sodipodi:type="arc"
+       sodipodi:cx="130.70865"
+       sodipodi:cy="-100.67437"
+       sodipodi:rx="3.96875"
+       sodipodi:ry="3.96875"
+       sodipodi:start="0"
+       sodipodi:end="5.1528876"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 134.6774,-100.67437 a 3.96875,3.96875 0 0 1 -2.86215,3.811353 3.96875,3.96875 0 0 1 -4.45825,-1.685922 3.96875,3.96875 0 0 1 0.37598,-4.751521 3.96875,3.96875 0 0 1 4.66791,-0.9638" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26499901;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.52999802,0.52999802;marker-start:url(#marker1815-8);stroke-dashoffset:0"
+       id="path844-5"
+       sodipodi:type="arc"
+       sodipodi:cx="130.70865"
+       sodipodi:cy="-91.413948"
+       sodipodi:rx="3.96875"
+       sodipodi:ry="3.96875"
+       sodipodi:start="0"
+       sodipodi:end="5.1528876"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 134.6774,-91.413948 a 3.96875,3.96875 0 0 1 -2.86215,3.811352 3.96875,3.96875 0 0 1 -4.45825,-1.685922 3.96875,3.96875 0 0 1 0.37598,-4.75152 3.96875,3.96875 0 0 1 4.66791,-0.9638" />
   </g>
 </svg>
