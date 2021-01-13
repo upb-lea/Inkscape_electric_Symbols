@@ -11,7 +11,7 @@ git clone git@github.com:upb-lea/Inkscape_electric_Symbols.git
 
 # Using the library
 * Open Inkscape_Symbols_xxx and copy the symbols of interrest to your incscape sheet
-* Recommended way to move objects: drag them next to a endpoint (it makes a difference where you touch the component), to make shure to work on the grid
+* Recommended way to move objects: drag them next to a endpoint (it makes a difference where you touch the component), to make shure to work on the rough grid (recommended, not the fine one)
 * Recommended way to modify wires: Mark line (F1-key for mark-tool), press F2-key, click on the end of the line so that the fixed point becomes red, now you can move this point.     
 * Recommended way to rotate the component: click 2 times on the component until the turning arrows are visible. Turn the component while keeping the ctrl key pressed.     
 * Recommended way to mirrow components: Press v (vertical) or h (horizontal)
