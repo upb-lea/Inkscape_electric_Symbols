@@ -5,6 +5,9 @@ Symbols for electric wiring. Contains Block diagrams and Symbols.
 cd /Documents/Folder/of/Interest   
 git clone git@github.com:upb-lea/Inkscape_electric_Symbols.git
 ```
+or just download the project via the [releases section](https://github.com/upb-lea/Inkscape_electric_Symbols/releases).
+
+After doing so, open Inkscape_Symbols_All.svg or Inkscape_Symbols_ISO60617.svg and copy the symbols of interest to your inkscape worksheet.
 
 # Overview
 ![](/Sources/Overview.png)
@@ -32,5 +35,5 @@ Please use the issues report button within gitlab/github to report bugs.
 * Points of components to which a wire can be connected must lie on the rough grid
 * Use standard line width
 
-
-
+# Changelog
+Find the changelog [here](https://github.com/upb-lea/Inkscape_electric_Symbols/blob/master/CHANGELOG.md)

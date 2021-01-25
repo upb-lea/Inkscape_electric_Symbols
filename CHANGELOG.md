@@ -10,6 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - add topologies: LLC, PSFB, DAB
 - add CHANGELOG.md
 
+### Changed
+- update reamde: update getting started section, add changelog to readme
+
 ## [1.1.0] - 2021-01-13
 ### Added
 - magnetic circuits
