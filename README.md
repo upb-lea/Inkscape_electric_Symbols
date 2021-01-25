@@ -27,7 +27,7 @@ After doing so, open Inkscape_Symbols_All.svg and copy the symbols of interest t
 
 
 # Bug Reports
-Please use the issues report button within gitlab/github to report bugs.
+Please use the issues report button within github to report bugs.
 
 # Contributing to this repository
 * Please use lines with rounded ends
