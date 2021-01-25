@@ -7,7 +7,7 @@ git clone git@github.com:upb-lea/Inkscape_electric_Symbols.git
 ```
 or just download the project via the [releases section](https://github.com/upb-lea/Inkscape_electric_Symbols/releases).
 
-After doing so, open Inkscape_Symbols_All.svg or Inkscape_Symbols_ISO60617.svg and copy the symbols of interest to your inkscape worksheet.
+After doing so, open Inkscape_Symbols_All.svg and copy the symbols of interest to your inkscape worksheet.
 
 # Overview
 ![](/Sources/Overview.png)

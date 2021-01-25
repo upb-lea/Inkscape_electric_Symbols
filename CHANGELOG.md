@@ -13,6 +13,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - update reamde: update getting started section, add changelog to readme
 
+### Removed
+- remove Inscape_Symbols_ISO60617.svg due to it is no longer maintained by this project. All symbols from this library can be found in Inkscape_Symbols_All.svg
+
 ## [1.1.0] - 2021-01-13
 ### Added
 - magnetic circuits
