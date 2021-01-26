@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - add topologies: LLC, PSFB, DAB
 - add CHANGELOG.md
 - add topologies: buck, boost, buck-boost
+- add drawings: thermal heating of D2PACK with thermal vias
 
 ### Changed
 - update reamde: update getting started section, add changelog to readme
