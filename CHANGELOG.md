@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [1.2.0] - 2021-01-31
 ### Added
 - add parasitic capacitors to MOSFET components
 - add topologies: LLC, PSFB, DAB
@@ -14,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - update reamde: update getting started section, add changelog to readme
+- Releases now include the notes from the changelog-file
 
 ### Removed
 - remove Inscape_Symbols_ISO60617.svg due to it is no longer maintained by this project. All symbols from this library can be found in Inkscape_Symbols_All.svg
@@ -55,6 +58,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - signal drawing stuff: square wave, sine wave, triangular wave, xy-diagrams
 - evaluation stuff: OK, not OK, flash
 
-[Unreleased]: https://github.com/upb-lea/Inkscape_electric_Symbols/compare/1.1.0...HEAD
+[Unreleased]: https://github.com/upb-lea/Inkscape_electric_Symbols/compare/1.2.0...HEAD
+[1.2.0]: https://github.com/upb-lea/Inkscape_electric_Symbols/compare/1.1.0...1.2.0
 [1.1.0]: https://github.com/upb-lea/Inkscape_electric_Symbols/compare/1.0.0...1.1.0
 [1.0.0]: https://github.com/upb-lea/Inkscape_electric_Symbols/compare/1.0.0...1.0.0
