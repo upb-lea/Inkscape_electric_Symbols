@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="Inkscape_Symbols_All.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    id="svg8"
    version="1.1"
    viewBox="0 0 210 297"
@@ -3197,6 +3197,38 @@
          id="path5871-92-75-3-1-5-26-5-0"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleInM-5-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         transform="scale(-0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path5871-6-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleInM-5-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         transform="scale(-0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path5871-6-6"
+         inkscape:connector-curvature="0" />
+    </marker>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -3218,8 +3250,8 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1144"
-     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-width="1280"
      inkscape:bbox-nodes="false"
      inkscape:snap-intersection-paths="false"
      inkscape:object-paths="false"
@@ -3229,9 +3261,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="16.214933"
-     inkscape:cx="320.6533"
-     inkscape:zoom="2.8284272"
+     inkscape:cy="822.3706"
+     inkscape:cx="1165.3797"
+     inkscape:zoom="0.3535534"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -31591,5 +31623,43 @@
          d="m 361.95,-110.33123 0.52916,-0.52917 h 2.11667 l 0.52917,0.52917 -0.52917,0.52916 h -2.11667 l -0.52916,-0.52916"
          id="path5608" />
     </g>
+    <g
+       id="g5533"
+       transform="translate(6.6145823,0.13249967)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5718-7-5-93-56"
+         d="M 347.92708,95.117517 H 341.3125"
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-5)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5718-7-5-93-7"
+         d="m 341.3125,88.502934 v 6.614583"
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-3)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+       x="355.78879"
+       y="96.240829"
+       id="text5537"><tspan
+         sodipodi:role="line"
+         id="tspan5535"
+         x="355.78879"
+         y="96.240829"
+         style="stroke-width:0.264583">t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+       x="341.89609"
+       y="89.521515"
+       id="text5541"><tspan
+         sodipodi:role="line"
+         id="tspan5539"
+         x="341.89609"
+         y="89.521515"
+         style="stroke-width:0.264583">f(t)</tspan></text>
   </g>
 </svg>
