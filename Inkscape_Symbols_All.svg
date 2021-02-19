@@ -3250,8 +3250,8 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="996"
-     inkscape:window-width="1280"
+     inkscape:window-height="1024"
+     inkscape:window-width="1920"
      inkscape:bbox-nodes="false"
      inkscape:snap-intersection-paths="false"
      inkscape:object-paths="false"
@@ -3261,9 +3261,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="822.3706"
-     inkscape:cx="1165.3797"
-     inkscape:zoom="0.3535534"
+     inkscape:cy="513.36959"
+     inkscape:cx="1104.9228"
+     inkscape:zoom="0.50000001"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -12586,7 +12586,7 @@
          y="69.570267"
          x="46.025097"
          id="tspan14829-0"
-         sodipodi:role="line">Bipolar Transistor</tspan></text>
+         sodipodi:role="line">NPN Bipolar Transistor</tspan></text>
     <text
        id="text5191-0-4-7-3-6-2-7-17-9-0"
        y="2.4426608"
@@ -12760,7 +12760,7 @@
          y="82.799438"
          x="46.025097"
          id="tspan14829-4"
-         sodipodi:role="line">NPN Bipolar Transistor</tspan></text>
+         sodipodi:role="line">PNP Bipolar Transistor</tspan></text>
     <text
        id="text26029"
        y="153.16414"
