@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - SMD housings
 - add mini-xy-graph
+- add test circuits: double-pulse test
 
 ## [1.2.0] - 2021-01-31
 ### Added
