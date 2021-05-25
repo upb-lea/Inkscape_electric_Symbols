@@ -5,10 +5,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [1.2.1] - 2021-05-25
 ### Added
 - SMD housings
 - add mini-xy-graph
 - add test circuits: double-pulse test
+### Changed
+- fix #2: Wrong direktion of diodes in 3L converter
 
 ## [1.2.0] - 2021-01-31
 ### Added
@@ -38,7 +42,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - spark gap
 - block symbols: add isolated variants of AC/DC, DC/AC, DC/DC converters
 
-
 ### Changed
 - fix readme instructions
 - change designators to italic
@@ -49,7 +52,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 - frame
-
 
 ## [1.0.0] - 2020-03-04
 ### Added
@@ -62,7 +64,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - signal drawing stuff: square wave, sine wave, triangular wave, xy-diagrams
 - evaluation stuff: OK, not OK, flash
 
-[Unreleased]: https://github.com/upb-lea/Inkscape_electric_Symbols/compare/1.2.0...HEAD
+[Unreleased]: https://github.com/upb-lea/Inkscape_electric_Symbols/compare/1.2.1...HEAD
+[1.2.0]: https://github.com/upb-lea/Inkscape_electric_Symbols/compare/1.2.0...1.2.1
 [1.2.0]: https://github.com/upb-lea/Inkscape_electric_Symbols/compare/1.1.0...1.2.0
 [1.1.0]: https://github.com/upb-lea/Inkscape_electric_Symbols/compare/1.0.0...1.1.0
 [1.0.0]: https://github.com/upb-lea/Inkscape_electric_Symbols/compare/1.0.0...1.0.0

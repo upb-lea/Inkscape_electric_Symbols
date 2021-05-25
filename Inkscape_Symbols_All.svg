@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="Inkscape_Symbols_All.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
    id="svg8"
    version="1.1"
    viewBox="0 0 210 297"
@@ -3277,8 +3277,8 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="627.68162"
-     inkscape:cx="1054.2546"
+     inkscape:cy="481.77329"
+     inkscape:cx="1292.6244"
      inkscape:zoom="0.50000001"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -9521,7 +9521,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="rotate(90,246.39583,305.92707)"
+       transform="rotate(-90,315.84375,-94.916678)"
        id="g13419-8-0">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
@@ -9712,7 +9712,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="rotate(90,233.82812,293.35936)"
+       transform="rotate(-90,303.27604,-82.348968)"
        id="g13419-8-0-8">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
@@ -9828,7 +9828,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="rotate(90,221.92187,281.45311)"
+       transform="rotate(-90,291.36979,-70.442718)"
        id="g13419-8-0-7">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
