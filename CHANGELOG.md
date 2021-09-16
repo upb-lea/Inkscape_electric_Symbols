@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - add DD-transformer
 - add IGBT with parallel capacitance
+- add BH-curve for magnetic materials
 ### Changed
 - fix #3: Buck-Boost-Converter shows Buck-Converter
 

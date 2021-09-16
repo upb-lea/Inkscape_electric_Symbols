@@ -3261,6 +3261,38 @@
          id="path5871-95-64-664"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleInM-5-78"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         transform="scale(-0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path5871-6-68"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleInM-5-7-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         transform="scale(-0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path5871-6-4-4"
+         inkscape:connector-curvature="0" />
+    </marker>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -3281,9 +3313,9 @@
      fit-margin-top="0"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:window-height="1140"
-     inkscape:window-width="1920"
+     inkscape:window-x="1280"
+     inkscape:window-height="996"
+     inkscape:window-width="1280"
      inkscape:bbox-nodes="false"
      inkscape:snap-intersection-paths="false"
      inkscape:object-paths="false"
@@ -3293,9 +3325,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="398.80821"
-     inkscape:cx="1242.3866"
-     inkscape:zoom="0.7071068"
+     inkscape:cy="608.11182"
+     inkscape:cx="1299.6622"
+     inkscape:zoom="0.3535534"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -11522,58 +11554,63 @@
     </g>
     <text
        id="text10584"
-       y="-163.26305"
+       y="-171.20055"
        x="18.436771"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="-163.26305"
+         y="-171.20055"
          x="18.436771"
          id="tspan10582"
          sodipodi:role="line">## Using the library</tspan><tspan
          style="stroke-width:0.264583"
-         y="-159.73528"
+         y="-167.67278"
          x="18.436771"
          sodipodi:role="line"
          id="tspan4038">* Open Inkscape_Symbols_All.svg and copy the symbols of interrest to your inkscape sheet</tspan><tspan
          id="tspan10588"
          style="stroke-width:0.264583"
-         y="-156.20749"
+         y="-164.14499"
          x="18.436771"
          sodipodi:role="line">* Recommended way to move objects: drag them next to a endpoint (it makes a difference where you touch the component), to make shure to work on the rough grid (recommended, not the fine one)</tspan><tspan
          id="tspan10590"
          style="stroke-width:0.264583"
-         y="-152.67972"
+         y="-160.61722"
          x="18.436771"
          sodipodi:role="line">* Recommended way to modify wires: Mark line (F1-key for mark-tool), press F2-key, click on the end of the line so that the fixed point becomes red, now you can move this point.     </tspan><tspan
          id="tspan10592"
          style="stroke-width:0.264583"
-         y="-149.15195"
+         y="-157.08945"
          x="18.436771"
          sodipodi:role="line">* Recommended way to rotate the component: click 2 times on the component until the turning arrows are visible. Turn the component while keeping the ctrl key pressed.     </tspan><tspan
          id="tspan10594"
          style="stroke-width:0.264583"
-         y="-145.62418"
+         y="-153.56168"
          x="18.436771"
          sodipodi:role="line">* Recommended way to mirrow components: Press v (vertical) or h (horizontal)</tspan><tspan
+         style="stroke-width:0.264583"
+         y="-150.03389"
+         x="18.436771"
+         sodipodi:role="line"
+         id="tspan31152">* Recommended way to changes text: click on text, press 't' for editing mode</tspan><tspan
          id="tspan10596"
          style="stroke-width:0.264583"
-         y="-142.09639"
+         y="-146.50612"
          x="18.436771"
          sodipodi:role="line">* Grid on/off by #-key</tspan><tspan
          id="tspan10598"
          style="stroke-width:0.264583"
-         y="-138.56862"
+         y="-142.97835"
          x="18.436771"
          sodipodi:role="line">* Change Color of area: Mark area, click on Color</tspan><tspan
          id="tspan10600"
          style="stroke-width:0.264583"
-         y="-135.04085"
+         y="-139.45058"
          x="18.436771"
          sodipodi:role="line">* Change Color of line: Mark line, shift + click on Color</tspan><tspan
          id="tspan10602"
          style="stroke-width:0.264583"
-         y="-131.51308"
+         y="-135.92279"
          x="18.436771"
          sodipodi:role="line">* Note: Some components consist of areas and lines (e.g. arrow). When changing color, both actions must be performed. Due to a program bug, sometimes the change becomes effective after opening the formating editor (Ctrl + shift + F)</tspan></text>
     <text
@@ -32264,5 +32301,53 @@
          y="173.19875"
          style="stroke-width:0.264583"
          id="tspan13217">'Double pulse test'</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 133.61458,127.00001 c 13.78637,0.91976 14.8358,-19.28263 26.45834,-18.52083"
+       id="path5718-3-2-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 160.07292,108.47918 c -13.78637,-0.91976 -14.8358,19.28263 -26.45834,18.52083"
+       id="path5718-3-2-3-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5718-7-5-93-2"
+       d="M 160.07292,117.7396 H 133.61458"
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-78)" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5718-7-5-93-5-0"
+       d="m 146.84375,108.47918 v 18.52083"
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-5-7-8)" />
+    <text
+       id="text5191-94-3-2-68"
+       y="119.28264"
+       x="161.12712"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.264583"
+         y="119.28264"
+         x="161.12712"
+         id="tspan5189-7-6-5-9"
+         sodipodi:role="line">H</tspan></text>
+    <text
+       id="text5191-94-3-2-4-2"
+       y="107.3764"
+       x="145.46399"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="107.3764"
+         x="145.46399"
+         id="tspan5189-7-6-5-7-6"
+         sodipodi:role="line"><tspan
+           id="tspan13725-6"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">B</tspan></tspan></text>
   </g>
 </svg>

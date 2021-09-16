@@ -18,6 +18,7 @@ After doing so, open Inkscape_Symbols_All.svg and copy the symbols of interest t
 * Recommended way to modify wires: Mark line (F1-key for mark-tool), press F2-key, click on the end of the line so that the fixed point becomes red, now you can move this point.     
 * Recommended way to rotate the component: click 2 times on the component until the turning arrows are visible. Turn the component while keeping the ctrl key pressed.     
 * Recommended way to mirrow components: Press v (vertical) or h (horizontal)
+* Recommended way to changes text: click on text, press 't' for editing mode
 * Grid on/off by #-key
 * Change Color of area: Mark area, click on Color
 * Change Color of line: Mark line, shift + click on Color
