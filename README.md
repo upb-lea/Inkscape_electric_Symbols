@@ -10,7 +10,7 @@ or just download the project via the [releases section](https://github.com/upb-l
 After doing so, open Inkscape_Symbols_All.svg and copy the symbols of interest to your inkscape worksheet.
 
 # Overview
-![](/Sources/Overview.png)
+![Library overview](/Sources/Overview.png)
 
 # Using the library
 * Open Inkscape_Symbols_All.svg and copy the symbols of interrest to your incscape sheet
@@ -24,7 +24,13 @@ After doing so, open Inkscape_Symbols_All.svg and copy the symbols of interest t
 * Change Color of line: Mark line, shift + click on Color
 * Note: Some components consist of areas and lines (e.g. arrow). When changing color, both actions must be performed. Due to a program bug, sometimes the change becomes effective after opening the formating editor (Ctrl + shift + F)
 
-![Alt Text](/Sources/Using_Symbols.gif)
+![How to use the library](/Sources/Using_Symbols.gif)
+
+# Examples
+![Buck converter](/Sources/Example_Boost_Converter.png)
+![Dual active bridge](/Sources/Example_DAB.png)
+![Switching behaviour](/Sources/Example_Switching_behaviour.png)
+
 
 
 # Bug Reports
