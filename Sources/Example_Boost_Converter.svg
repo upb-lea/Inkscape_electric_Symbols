@@ -4,8 +4,8 @@
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    id="svg3300"
    version="1.1"
-   viewBox="0 0 100 53"
-   height="53mm"
+   viewBox="0 0 100 54"
+   height="54mm"
    width="100mm"
    inkscape:export-filename="/home/nikolasf/Dokumente/01_git/02_Inkscape_electric_Symbols/Sources/Example_Boost_Converter.png"
    inkscape:export-xdpi="200"
@@ -228,9 +228,9 @@
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="1280"
-     inkscape:window-height="996"
+     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:window-height="964"
      inkscape:window-width="1280"
      inkscape:snap-object-midpoints="true"
      showgrid="true"
@@ -238,7 +238,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="203.04066"
-     inkscape:cx="95.459415"
+     inkscape:cx="-94.449262"
      inkscape:zoom="0.9899495"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -247,7 +247,8 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:pagecheckerboard="0"
-     width="100mm">
+     width="100mm"
+     height="54mm">
     <inkscape:grid
        id="grid3302"
        type="xygrid" />
