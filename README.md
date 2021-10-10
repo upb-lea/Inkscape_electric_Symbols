@@ -28,7 +28,7 @@ After doing so, open Inkscape_Symbols_All.svg and copy the symbols of interest t
 
 # Examples
 ## Example Boost Converter
-![Boost converter](/Sources/Example_Boost_Converter.png)
+![Boost converter](/Sources/Example_Boost_Converter2.png)
 ## Example Dual Active Bridge Converter
 ![Dual active bridge](/Sources/Example_DAB.png)
 ## Example Switching Behaviour
