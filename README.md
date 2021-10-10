@@ -27,8 +27,11 @@ After doing so, open Inkscape_Symbols_All.svg and copy the symbols of interest t
 ![How to use the library](/Sources/Using_Symbols.gif)
 
 # Examples
+## Example Buck Converter
 ![Buck converter](/Sources/Example_Boost_Converter.png)
+## Example Dual Active Bridge Converter
 ![Dual active bridge](/Sources/Example_DAB.png)
+## Example Switching Behaviour
 ![Switching behaviour](/Sources/Example_Switching_behaviour.png)
 
 
