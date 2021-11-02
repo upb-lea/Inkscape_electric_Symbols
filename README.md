@@ -1,6 +1,7 @@
 # Inkscape_Symbols
 Symbols for electric wiring. Contains Block diagrams and Symbols.
 # Getting started
+Download and install [Inkscape](https://inkscape.org/).
 ```
 cd /Documents/Folder/of/Interest   
 git clone git@github.com:upb-lea/Inkscape_electric_Symbols.git
@@ -47,3 +48,6 @@ Please use the issues report button within github to report bugs.
 
 # Changelog
 Find the changelog [here](https://github.com/upb-lea/Inkscape_electric_Symbols/blob/master/CHANGELOG.md)
+
+# Troubleshooting
+Make sure that you run the latest version of [Inkscape](https://inkscape.org/).
