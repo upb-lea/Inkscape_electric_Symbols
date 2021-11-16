@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - add circuit board components
 - add examples so readme.md
 - add LAN-connector, USB-C, Notebook, 3D-Scope
+- add Flyback converter
 
 ## [1.2.2] - 2021-09-17
 ### Added
