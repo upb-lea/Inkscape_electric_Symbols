@@ -4468,9 +4468,9 @@
      fit-margin-left="0"
      fit-margin-top="0"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="1280"
-     inkscape:window-height="996"
+     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:window-height="964"
      inkscape:window-width="1280"
      inkscape:bbox-nodes="false"
      inkscape:snap-intersection-paths="false"
@@ -4481,9 +4481,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="786.0829"
-     inkscape:cx="1238.2011"
-     inkscape:zoom="0.41471453"
+     inkscape:cy="671.54628"
+     inkscape:cx="486.47922"
+     inkscape:zoom="0.82942906"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -13823,20 +13823,20 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:2.82222px;line-height:0.25;stroke-width:0.264583"
-         y="76.437019"
+         y="76.056679"
          x="44.736637"
          id="tspan5189-7-6-4-2-8-51"
          sodipodi:role="line">MOSFET</tspan><tspan
          id="tspan14835-1"
          style="font-size:2.82222px;line-height:0.25;stroke-width:0.264583"
-         y="80.128769"
+         y="83.440186"
          x="44.736637"
          sodipodi:role="line">Enhancement Type</tspan><tspan
          id="tspan8683-08"
          style="font-size:2.82222px;line-height:0.25;stroke-width:0.264583"
-         y="83.820526"
+         y="87.131935"
          x="44.736637"
-         sodipodi:role="line">(normally-off)</tspan></text>
+         sodipodi:role="line" /></text>
     <text
        id="text5191-94-3-37-5-7-4-5"
        y="61.88496"
@@ -13844,20 +13844,20 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:2.82222px;line-height:0.25;stroke-width:0.264583"
-         y="61.88496"
+         y="61.504623"
          x="44.736637"
          id="tspan5189-7-6-4-2-8-5-0"
          sodipodi:role="line">MOSFET</tspan><tspan
-         id="tspan14833-6"
-         style="font-size:2.82222px;line-height:0.25;stroke-width:0.264583"
-         y="65.576706"
-         x="44.736637"
-         sodipodi:role="line">Depletion Type</tspan><tspan
          id="tspan8683-0-46"
          style="font-size:2.82222px;line-height:0.25;stroke-width:0.264583"
-         y="69.268463"
+         y="68.888123"
          x="44.736637"
-         sodipodi:role="line">(normally-on)</tspan></text>
+         sodipodi:role="line">Depletion Type</tspan><tspan
+         style="font-size:2.82222px;line-height:0.25;stroke-width:0.264583"
+         y="72.57988"
+         x="44.736637"
+         sodipodi:role="line"
+         id="tspan6590" /></text>
     <text
        id="text5191-94-3-37-5-7-1-3"
        y="102.89539"
@@ -13865,20 +13865,20 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:2.82222px;line-height:0.25;stroke-width:0.264583"
-         y="102.89539"
+         y="102.51505"
          x="44.736637"
          id="tspan5189-7-6-4-2-8-0-1"
          sodipodi:role="line">MOSFET</tspan><tspan
          id="tspan14839-1"
          style="font-size:2.82222px;line-height:0.25;stroke-width:0.264583"
-         y="106.58714"
+         y="109.89856"
          x="44.736637"
          sodipodi:role="line">Enhancement Type</tspan><tspan
          id="tspan8683-3-0"
          style="font-size:2.82222px;line-height:0.25;stroke-width:0.264583"
-         y="110.27889"
+         y="113.59031"
          x="44.736637"
-         sodipodi:role="line">(normally-off)</tspan></text>
+         sodipodi:role="line" /></text>
     <text
        id="text5191-94-3-37-5-7-4-0-3"
        y="89.666214"
@@ -13886,20 +13886,20 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:2.82222px;line-height:0.25;stroke-width:0.264583"
-         y="89.666214"
+         y="89.285873"
          x="44.736637"
          id="tspan5189-7-6-4-2-8-5-4-4"
          sodipodi:role="line">MOSFET </tspan><tspan
          id="tspan14837-0"
          style="font-size:2.82222px;line-height:0.25;stroke-width:0.264583"
-         y="93.357964"
+         y="96.66938"
          x="44.736637"
          sodipodi:role="line">Depletion Type</tspan><tspan
          id="tspan8683-0-4-3"
          style="font-size:2.82222px;line-height:0.25;stroke-width:0.264583"
-         y="97.049721"
+         y="100.36113"
          x="44.736637"
-         sodipodi:role="line">(normally-on)</tspan></text>
+         sodipodi:role="line" /></text>
     <text
        id="text9213-9"
        y="120.08984"
@@ -38841,5 +38841,49 @@
          d="m 393.7,-51.196859 v -0.264583"
          id="path13601-3-8" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="44.698708"
+       y="68.24736"
+       id="text9266"><tspan
+         sodipodi:role="line"
+         id="tspan9264"
+         style="stroke-width:0.264583"
+         x="44.698708"
+         y="68.24736">(normally-on)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="44.62085"
+       y="82.799446"
+       id="text11756"><tspan
+         sodipodi:role="line"
+         id="tspan11754"
+         style="stroke-width:0.264583"
+         x="44.62085"
+         y="82.799446">(normally-off)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="44.698708"
+       y="96.02861"
+       id="text15320"><tspan
+         sodipodi:role="line"
+         id="tspan15318"
+         style="stroke-width:0.264583"
+         x="44.698708"
+         y="96.02861">(normally-on)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="44.62085"
+       y="109.25777"
+       id="text17436"><tspan
+         sodipodi:role="line"
+         id="tspan17434"
+         style="stroke-width:0.264583"
+         x="44.62085"
+         y="109.25777">(normally-off)</tspan></text>
   </g>
 </svg>
