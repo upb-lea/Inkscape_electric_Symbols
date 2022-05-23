@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Components Top-View (IC's, Connectors)
  - Add Flip-flop
  - Add control circuit symbols (various sum/subtract symbols)
-
+ 
 ### Changed
  - Update Scope
  - Update Impedance Analyzer
@@ -19,6 +19,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Bugfixes
  - #5 was not fully fixed for colored arrows
+ - Fix multiple connection lines in capacitor elements
+ 
 
 ## [1.2.3] - 2021-12-14
 ### Added
