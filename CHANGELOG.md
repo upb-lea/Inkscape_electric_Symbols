@@ -6,16 +6,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
- - Add Source / Load
- - Add Power Analyzer
- - Components Top-View (IC's, Connectors)
- - Add Flip-flop
+ - Add source / load
+ - Add power analyzer
+ - Components top-view (IC's, connectors)
+ - Add flip-flop
  - Add control circuit symbols (various sum/subtract symbols)
- - Add Light Bulb
+ - Add light bulb
+ - Add alternative resistor symbols
  
 ### Changed
- - Update Scope
- - Update Impedance Analyzer
+ - Update scope
+ - Update impedance analyzer
  - Minor changes to the examples
 
 ### Bugfixes
