@@ -4627,9 +4627,9 @@
      fit-margin-top="0"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
-     inkscape:window-x="1280"
-     inkscape:window-height="996"
-     inkscape:window-width="1280"
+     inkscape:window-x="1920"
+     inkscape:window-height="1172"
+     inkscape:window-width="1920"
      inkscape:bbox-nodes="false"
      inkscape:snap-intersection-paths="false"
      inkscape:object-paths="false"
@@ -4639,9 +4639,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="909.05906"
-     inkscape:cx="1239.4068"
-     inkscape:zoom="0.41471453"
+     inkscape:cy="864.45763"
+     inkscape:cx="1399.8416"
+     inkscape:zoom="0.58649491"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -17672,15 +17672,37 @@
          sodipodi:role="line">Miscellaneous</tspan></text>
     <text
        id="text26351-1-6"
-       y="246.84106"
-       x="72.574379"
+       y="254.7338"
+       x="64.778442"
        style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="246.84106"
-         x="72.574379"
+         y="254.7338"
+         x="64.778442"
          id="tspan26349-96-1"
          sodipodi:role="line">Spark gap</tspan></text>
+    <text
+       id="text26351-1-6-2"
+       y="254.7338"
+       x="51.876667"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="254.7338"
+         x="51.876667"
+         id="tspan26349-96-1-0"
+         sodipodi:role="line">Relay</tspan></text>
+    <text
+       id="text26351-1-6-4"
+       y="254.7338"
+       x="84.622192"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="254.7338"
+         x="84.622192"
+         id="tspan26349-96-1-9"
+         sodipodi:role="line">Light bulb</tspan></text>
     <g
        id="g9829"
        transform="translate(-44.714586,48.947908)">
