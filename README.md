@@ -21,11 +21,13 @@ After doing so, open Inkscape_Symbols_All.svg and copy the symbols of interest t
 * Recommended way to mirrow components: press v (vertical) or h (horizontal).
 * Recommended way to changes text: click on text, press 't' for editing mode.
 * Grid on/off by #-key
-* Change Color of area: mark area, click on 'Color'.
-* Change Color of line: mark line, shift + click on 'Color'.
-
+* Change color of area: mark area, click on 'Color'.
+* Change color of line: mark line, shift + click on 'Color'.
+* Recommended snapping settings, can be set top right inside Inkscape       
+![Recommended Snapping Settings](/Sources/snapping_settings.png)
 
 ![How to use the library](/Sources/Using_Symbols.gif)
+
 
 # Examples
 ## Example Boost Converter
