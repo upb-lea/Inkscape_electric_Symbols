@@ -23,7 +23,6 @@ After doing so, open Inkscape_Symbols_All.svg and copy the symbols of interest t
 * Grid on/off by #-key
 * Change Color of area: Mark area, click on Color
 * Change Color of line: Mark line, shift + click on Color
-* Note: Some components consist of areas and lines (e.g. arrow). When changing color, both actions must be performed. Due to a program bug, sometimes the change becomes effective after opening the formating editor (Ctrl + shift + F)
 
 ![How to use the library](/Sources/Using_Symbols.gif)
 
