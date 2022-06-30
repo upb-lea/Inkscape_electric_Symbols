@@ -1,5 +1,5 @@
 # Inkscape_Symbols
-Symbols for electric wiring. Contains Block diagrams and Symbols.
+Symbols for electric circuits. Contains block diagrams and symbols.
 # Getting started
 Download and install [Inkscape](https://inkscape.org/).
 ```
