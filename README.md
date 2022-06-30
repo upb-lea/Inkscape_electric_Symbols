@@ -2,13 +2,19 @@
 Symbols for electric circuits. Contains block diagrams and symbols.
 # Getting started
 Download and install [Inkscape](https://inkscape.org/).
+Just download the latest version of [Inkscape_Symbols_All.svg](https://github.com/upb-lea/Inkscape_electric_Symbols/blob/master/Inkscape_Symbols_All.svg).
+
+After doing so, open Inkscape_Symbols_All.svg and copy the symbols of interest to your inkscape worksheet.
+
+If you want to recieve updates, clone this repository by using [git](https://git-scm.com/):
 ```
 cd /Documents/Folder/of/Interest   
 git clone git@github.com:upb-lea/Inkscape_electric_Symbols.git
 ```
-or just download the project via the [releases section](https://github.com/upb-lea/Inkscape_electric_Symbols/releases).
-
-After doing so, open Inkscape_Symbols_All.svg and copy the symbols of interest to your inkscape worksheet.
+To update the symbols library, use
+```
+git pull
+```
 
 # Overview
 ![Library overview](/Sources/Overview.png)
