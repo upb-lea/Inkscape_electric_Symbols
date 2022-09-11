@@ -4626,10 +4626,10 @@
      fit-margin-left="0"
      fit-margin-top="0"
      inkscape:window-maximized="1"
-     inkscape:window-y="32"
-     inkscape:window-x="0"
-     inkscape:window-height="964"
-     inkscape:window-width="1280"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1121"
+     inkscape:window-width="1920"
      inkscape:bbox-nodes="false"
      inkscape:snap-intersection-paths="false"
      inkscape:object-paths="false"
@@ -4639,9 +4639,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="791.14071"
-     inkscape:cx="1248.0927"
-     inkscape:zoom="0.29324746"
+     inkscape:cy="1252.5684"
+     inkscape:cx="198.6377"
+     inkscape:zoom="2.3459797"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -7433,7 +7433,7 @@
          r="2.6458333" />
     </g>
     <g
-       transform="translate(23.944805,152.7917)"
+       transform="translate(31.882306,152.79171)"
        id="g6663">
       <circle
          style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -9553,7 +9553,7 @@
        d="m 460.50747,176.90588 v 7.9375"
        style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       transform="translate(29.104167,118.39587)"
+       transform="translate(37.041668,118.39588)"
        id="g9358">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
@@ -9884,7 +9884,7 @@
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       transform="translate(-3.9687482,118.39587)"
+       transform="translate(3.9687529,118.39588)"
        id="g11206">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
@@ -10081,7 +10081,7 @@
            style="stroke-width:0.264583">1</tspan></text>
     </g>
     <g
-       transform="translate(15.875,118.39587)"
+       transform="translate(23.812501,118.39588)"
        id="g11608">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -13949,35 +13949,35 @@
          sodipodi:role="line">Voltage Source</tspan></text>
     <text
        id="text16590"
-       y="206.07944"
-       x="51.5779"
+       y="206.07945"
+       x="59.5154"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="206.07944"
-         x="51.5779"
+         y="206.07945"
+         x="59.5154"
          id="tspan16588"
          sodipodi:role="line">Current Source</tspan></text>
     <text
        id="text16594"
-       y="206.05188"
-       x="75.643272"
+       y="206.0519"
+       x="83.580772"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="206.05188"
-         x="75.643272"
+         y="206.0519"
+         x="83.580772"
          id="tspan16592"
          sodipodi:role="line">Battery</tspan></text>
     <text
        id="text16598"
-       y="206.08081"
-       x="90.661133"
+       y="206.08083"
+       x="98.598633"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="206.08081"
-         x="90.661133"
+         y="206.08083"
+         x="98.598633"
          id="tspan16596"
          sodipodi:role="line">PV</tspan></text>
     <g
@@ -40057,6 +40057,38 @@
          d="m 382.32292,52.916683 c -0.26459,0.79375 -2.38125,0.79375 -2.64584,0"
          style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g17828"
+       transform="translate(17.679378,33.512905)">
+      <g
+         transform="translate(-25.61688,84.882953)"
+         id="g11181-2">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 60.854166,81.364573 v 2.645834"
+           id="path6382-6-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <circle
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="path6384-7-2"
+           cx="60.854168"
+           cy="78.718742"
+           r="2.6458333" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 60.854166,73.427077 v 2.64583"
+           id="path6382-6-5-65"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path21165-8-4-0-7-6"
+         d="m 33.186721,164.26315 v 0 0 -1.32292 h 1.32292 v 1.32292 h 1.32291 v -1.32292 h 1.32292 v 1.32292 0"
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccccccc" />
     </g>
   </g>
 </svg>
