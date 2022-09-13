@@ -50,6 +50,7 @@ Click the `watch` button to receive update notifications.
 Please use the issues report button within github to report bugs.
 
 # Contributing to this repository
+For new symbol requests, please open an issue with a single example drawing attached. I will then redraw the symbol, modify it if necessary to fit with the other symbols, and add it to the library. 
 * Please use lines with rounded ends.
 * Always draw on the grid (rough or fine).
 * Points of components to which a wire can be connected must lie on the rough grid.
