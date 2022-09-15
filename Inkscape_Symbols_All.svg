@@ -4639,8 +4639,8 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="843.95402"
-     inkscape:cx="1101.9628"
+     inkscape:cy="901.82517"
+     inkscape:cx="1229.7616"
      inkscape:zoom="0.41471453"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -33263,9 +33263,9 @@
     <rect
        style="fill:#2ec27e;stroke:#2ec27e;stroke-width:0.264999"
        id="rect4072-2-9-7"
-       width="32.808292"
+       width="44.979164"
        height="1.058332"
-       x="365.38959"
+       x="357.1875"
        y="-36.777065" />
     <g
        id="g5559"
@@ -33493,7 +33493,7 @@
     </g>
     <g
        id="g11135"
-       transform="translate(1.587499)">
+       transform="translate(-6.6145894)">
       <rect
          style="fill:#865e3c;fill-rule:evenodd;stroke:#865e3c;stroke-width:0.264583;stroke-linejoin:round"
          id="rect6299"
@@ -33548,7 +33548,7 @@
     </g>
     <g
        id="g10988"
-       transform="translate(1.587499)">
+       transform="translate(-6.6145894)">
       <rect
          style="fill:#f5c211;fill-rule:evenodd;stroke:#f5c211;stroke-width:0.264583;stroke-linejoin:round"
          id="rect6299-1"
@@ -36138,7 +36138,7 @@
     </g>
     <g
        id="g9630"
-       transform="translate(333.375,-44.97915)">
+       transform="translate(325.17291,-44.979149)">
       <path
          inkscape:connector-curvature="0"
          id="path5718-3-7-5-5-9-2-3"
@@ -36245,7 +36245,7 @@
     </g>
     <g
        id="g9401"
-       transform="translate(336.02083,-50.799983)">
+       transform="translate(327.81874,-50.799982)">
       <circle
          style="fill:#ffffff;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="path7256"
@@ -38883,7 +38883,7 @@
     </g>
     <g
        id="g12340"
-       transform="translate(-17.197914,14.552083)">
+       transform="translate(-25.400002,14.552084)">
       <path
          inkscape:connector-curvature="0"
          id="path5718-361-9-4-26"
@@ -39018,7 +39018,8 @@
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       id="g14718">
+       id="g14718"
+       transform="translate(-8.2020884)">
       <path
          style="fill:#000000;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 366.44792,-37.570817 v -1.322916 h 5.29166 v 1.322921 0.52916 l -5.29166,2e-6 v -0.529167"
@@ -40132,6 +40133,50 @@
          d="m 382.32292,52.916683 c -0.26459,0.79375 -2.38125,0.79375 -2.64584,0"
          style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g7643">
+      <g
+         id="g23559-6"
+         transform="translate(4.7625051,10.318752)">
+        <rect
+           style="fill:#9a9996;fill-rule:evenodd;stroke:#9a9996;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+           id="rect22860-2"
+           width="4.7624941"
+           height="0.52916753"
+           x="387.35001"
+           y="-47.889568" />
+        <rect
+           style="fill:#9a9996;fill-rule:evenodd;stroke:#9a9996;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+           id="rect22860-5-6"
+           width="0.52916664"
+           height="0.52916664"
+           x="-387.35001"
+           y="-47.889568"
+           transform="scale(-1,1)" />
+      </g>
+      <rect
+         style="fill:#9a9996;fill-rule:evenodd;stroke:#9a9996;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+         id="rect22860-2-8"
+         width="1.3229258"
+         height="3.4395821"
+         x="394.22916"
+         y="-41.010399" />
+      <rect
+         style="fill:#9a9996;fill-rule:evenodd;stroke:#9a9996;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+         id="rect22860-5-6-7"
+         width="1.5874949"
+         height="3.4395821"
+         x="-394.49374"
+         y="-41.010399"
+         transform="scale(-1,1)" />
+      <ellipse
+         ry="0.39901915"
+         rx="0.40116644"
+         cy="-39.952068"
+         cx="394.22916"
+         id="path5953-92"
+         style="fill:#9a9996;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     </g>
   </g>
 </svg>
