@@ -37,14 +37,25 @@ Click the `watch` button to receive update notifications.
 
 
 # Examples
-## Example Boost Converter
+### Example Boost Converter
 ![Boost converter](/Sources/Example_Boost_Converter2.png)
-## Example Dual Active Bridge Converter
+### Example Dual Active Bridge Converter
 ![Dual active bridge](/Sources/Example_DAB.png)
-## Example Switching Behaviour
+### Example Switching Behaviour
 ![Switching behaviour](/Sources/Example_Switching_behaviour.png)
 
+# Use high quality vector graphics inside your documentation software
+Follow the steps to use vector graphics in your documentation software. The vector graphics are rendered in very good image quality, unlike conventional png images. However, each program has its own characteristics and requires a different file format.
+### LaTeX
+ * In Inkscape: `File` -> `Save Copy` -> `yourdocument.pdf`. 
+ * Include this `pdf` in your LaTeX document.
 
+### LibreOffice
+Drag and drop the Inkscape `.svg`-file into your writer/impress document.
+
+### MS Office
+ * In Inkscape: `File` -> `Save Copy` -> `yourdocument.emf`. 
+ * Include this `emf`-file in your Word/PowerPoint document.
 
 # Bug Reports
 Please use the issues report button within github to report bugs.
