@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
  - Add electrolyth capacitor, PWM source
- - Add fan, BNC socket
+ - Add fan, BNC socket, inductor
 
 ## [1.3.0] - 2022-06-30
 ### Added
