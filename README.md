@@ -46,8 +46,11 @@ Click the `watch` button to receive update notifications.
 ### Example Switching Behaviour
 ![Switching behaviour](/Sources/Example_Switching_behaviour.png)
 
+# Set drawing size
+The best thing to do before you start drawing is to consider where the drawing will be used. For example, if the drawing will be used on an A4 (210 mm width) paper with 2.5 cm margins on each side, set the drawing width within Inkscape to 160 mm. For two-column text, use 80 mm image width. This way you will get good drawing results relative to the written text. 
+
 # Use high quality vector graphics inside your documentation software
-Follow the steps to use vector graphics in your documentation software. The vector graphics are rendered in very good image quality, unlike conventional png images. However, each program has its own characteristics and requires a different file format.
+Follow the steps to use vector graphics in your documentation software. The vector graphics are rendered in very good image quality, unlike conventional png images. However, each program has its own characteristics and requires a different file format. 
 ### LaTeX
  * In Inkscape: `File` -> `Save Copy` -> `yourdocument.pdf`. 
  * Include this `pdf` in your LaTeX document.
