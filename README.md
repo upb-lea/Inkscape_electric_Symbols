@@ -1,4 +1,4 @@
-# Inkscape_Symbols
+# Electrical Drawing Symbols for Inkscape
 Symbols for electric circuits. Contains block diagrams and symbols.
 # Getting started
  * Download and install [Inkscape](https://inkscape.org/).
@@ -6,16 +6,16 @@ Symbols for electric circuits. Contains block diagrams and symbols.
 
 After doing so, open Inkscape_Symbols_All.svg and copy the symbols of interest to your inkscape worksheet.
 
-If you want to recieve updates, clone this repository by using [git](https://git-scm.com/):
+Optional: If you want to recieve updates, clone this repository by using [git](https://git-scm.com/):
 ```
 cd /Documents/Folder/of/Interest   
 git clone git@github.com:upb-lea/Inkscape_electric_Symbols.git
 ```
-To update the symbols library, use
+Optional: To update the symbols library, use
 ```
 git pull
 ```
-Click the `watch` button to receive update notifications.
+Optional: Click the `watch` button to receive update notifications.
 
 # Overview
 ![Library overview](/Sources/Overview.png)
