@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Add electrolyth capacitor, PWM source
  - Add fan, BNC socket, inductor and capacitor drawings
  - Add coaxial cable
+### Changed
+ - Distance for isolated block symbols in distance-lines were not the same
 
 ## [1.3.0] - 2022-06-30
 ### Added
