@@ -5,11 +5,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [1.4.0] - 2023-02-08
 ### Added
  - Add electrolyth capacitor, PWM source
  - Add fan, BNC socket, inductor and capacitor drawings
  - Add coaxial cable
  - Add inductor toroid drawings
+ - Add bidirectional GaN-Transistor
 ### Changed
  - Distance for isolated block symbols in distance-lines were not the same
 
@@ -114,7 +117,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - signal drawing stuff: square wave, sine wave, triangular wave, xy-diagrams
 - evaluation stuff: OK, not OK, flash
 
-[Unreleased]: https://github.com/upb-lea/Inkscape_electric_Symbols/compare/1.3.0...HEAD
+[Unreleased]: https://github.com/upb-lea/Inkscape_electric_Symbols/compare/1.4.0...HEAD
+[1.4.0]: https://github.com/upb-lea/Inkscape_electric_Symbols/compare/1.3.0...1.4.0
 [1.3.0]: https://github.com/upb-lea/Inkscape_electric_Symbols/compare/1.2.3...1.3.0
 [1.2.3]: https://github.com/upb-lea/Inkscape_electric_Symbols/compare/1.2.2...1.2.3
 [1.2.2]: https://github.com/upb-lea/Inkscape_electric_Symbols/compare/1.2.1...1.2.2
