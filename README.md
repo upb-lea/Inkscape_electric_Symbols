@@ -20,13 +20,14 @@ Optional: Click the `watch` button to receive update notifications.
 # Overview
 ![Library overview](/Sources/Overview.png)
 
-# Using the library
+# Using the library (Important!)
 * Open Inkscape_Symbols_All.svg and copy the symbols of interest to your inkscape sheet.
 * __Always draw on the grid!__
+* __Enable snapping! (see settings screenshots below)__     
 * Grid on/off by `#`-key
 * Recommended way to move objects: drag them next to a endpoint (it makes a difference where you touch the component), to make sure to work on the rough grid (recommended, not the fine one).
 * Recommended way to modify wires: mark line (`F1`-key for mark-tool), press `F2`-key, click on the end of the line so that the fixed point becomes red, now you can move this point.     
-* Recommended way to rotate the component: click 2 times on the component until the turning arrows are visible. Turn the component while keeping the `ctrl` key pressed.     
+* Recommended way to rotate the component: mark the component, and use the `rotate` buttons at the upper part of the toolbar.      
 * Recommended way to mirrow components: press `v` (vertical) or `h` (horizontal).
 * Recommended way to changes text: click on text, press `t` for editing mode.
 * Change color of area: mark area, click on Color.
