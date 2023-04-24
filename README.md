@@ -22,6 +22,7 @@ Optional: Click the `watch` button to receive update notifications.
 
 # Using the library (Important!)
 * Open Inkscape_Symbols_All.svg and copy the symbols of interest to your inkscape sheet.
+* __Do not resize the individual elements. Use the size as given!__     
 * __Always draw on the grid!__
 * __Enable snapping! (see settings screenshots below)__     
 * Grid on/off by `#`-key
