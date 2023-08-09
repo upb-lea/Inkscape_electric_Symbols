@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
  - Diode rectifier
  - #12: IGBT enhancement type
+ - #11: Ladder Logic Symbols
 ### Updated
  - Bring some named symbols to the Inkscape symbols (searchable)
 ### Fixed
