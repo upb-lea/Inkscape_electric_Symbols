@@ -108,4 +108,10 @@ For new symbol requests, please open an issue with a single example drawing atta
 Find the changelog [here](https://github.com/upb-lea/Inkscape_electric_Symbols/blob/master/CHANGELOG.md).
 
 # Troubleshooting
-Make sure that you run the latest version of [Inkscape](https://inkscape.org/).
+ * Make sure that you run the latest version of [Inkscape](https://inkscape.org/).
+### Different grid settings when opening older (< `1.3.2`) drawings with newer inkscape version (`1.3.2` and up)
+There is a missmatch in the grid settings. This needs to be restored for every single (old) document.
+`File` -> `Document settings` under `Grid`: The raster unit is set to `mm`, but should be set to `px`.
+
+
+
