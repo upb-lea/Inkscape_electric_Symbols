@@ -68,7 +68,7 @@ Drag and drop the Inkscape `.svg`-file into your writer/impress document.
 ### Option 1: Use font by LaTeX
 Save your drawing as `.pdf` file. While saving, use the following option in the export dialog.
 ![pdf export dialog](/Sources/pdf_export_dialog.png)     
-Now, your figure is exported e.g. as `example_figure.pdf_tex`. Now, also LaTeX formular
+Now, your figure is exported e.g. as `example_figure.pdf_tex`. Also LaTeX formulars are supported using the `.pdf_tex` format.
 
 LaTeX example code, to include this figure into your LaTeX document.
 ```

@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Diode rectifier
  - #12: IGBT enhancement type
  - #11: Ladder Logic Symbols
+ - Tutorial how to use LaTeX fonts
 ### Updated
  - Bring some named symbols to the Inkscape symbols (searchable)
 ### Fixed
