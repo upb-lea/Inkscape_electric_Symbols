@@ -64,6 +64,36 @@ Drag and drop the Inkscape `.svg`-file into your writer/impress document.
  * In Inkscape: `File` -> `Save Copy` -> `yourdocument.emf`. 
  * Include this `emf`-file in your Word/PowerPoint document.
 
+# Use LaTeX font inside the figures for LaTeX documents
+### Option 1: Use font by LaTeX
+Save your drawing as `.pdf` file. While saving, use the following option in the export dialog.
+![pdf export dialog](/Sources/pdf_export_dialog.png)     
+Now, your figure is exported e.g. as `example_figure.pdf_tex`. Now, also LaTeX formular
+
+LaTeX example code, to include this figure into your LaTeX document.
+```
+\begin{figure}[htb]
+	\centering
+	\def\svgwidth{\linewidth}
+	\input{figures/example_figure.pdf_tex}
+	\caption{This is a pdf figure, where the font is made by \LaTeX.}
+	\label{fig:example_figure}
+\end{figure}
+```
+
+### Option 2: Linux users only 
+Debian based systems (untested):
+```
+apt install lmodern
+``` 
+
+Archlinux based systems:
+```
+pacman install otf-latin-modern otf-latinmodern-math
+```
+Now, you will find the font `Latin Modern Roman` inside your Inkscape fonts.
+
+
 # Bug Reports
 Please use the issues report button within github to report bugs.
 
