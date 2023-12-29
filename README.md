@@ -1,5 +1,8 @@
 # Electrical Drawing Symbols for Inkscape
-Symbols for electric circuits. Contains block diagrams and symbols.
+Symbols for electric circuits. Contains block diagrams and symbols. Typcially used for documentation in
+ * Bachelor / Master / PhD thesis
+ * Scientific papers
+ * Technical documentation.
 # Getting started
  * Download and install [Inkscape](https://inkscape.org/).
  * Download the latest version of [Inkscape_Symbols_All.svg](https://github.com/upb-lea/Inkscape_electric_Symbols/blob/master/Inkscape_Symbols_All.svg).
