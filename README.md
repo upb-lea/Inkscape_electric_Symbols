@@ -67,6 +67,20 @@ Drag and drop the Inkscape `.svg`-file into your writer/impress document.
  * In Inkscape: `File` -> `Save Copy` -> `yourdocument.emf`. 
  * Include this `emf`-file in your Word/PowerPoint document.
 
+# Usage of Inkscape integrated symbols (Beta!)
+Install the symobl sheet into the following directory:
+Windows: `C:\Users\your_usersname\AppData\Roaming\inkscape\symbols`
+Linux: `~/.config/inkscape/symbols`
+MacOS: `/Users/your_usersname/.config/inkscape/symbol`
+
+
+Open `Object` -> `Symbols` in a new document. In the symbol drop-down menu, choose `Inkscape_Symbols_All`. All symbols are searchable by name.
+
+Note: Not all symbols from the main document are included here.
+
+![](Sources/searchable_symbols.png)
+
+
 # Use LaTeX font inside the figures for LaTeX documents
 ### Option 1: Use font by LaTeX
 Save your drawing as `.pdf` file. While saving, use the following option in the export dialog.
