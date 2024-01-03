@@ -1,5 +1,5 @@
 # Electrical Drawing Symbols for Inkscape
-Symbols for electrical engineering applications. Contains block diagrams and symbols. Typcially used for technical drawings in
+Symbols for electrical engineering applications. Contains block diagrams and symbols. Typically used for technical drawings in
  * Bachelor / Master / Ph.D. theses,
  * Scientific papers, and
  * Technical manuals.
