@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - #12: IGBT enhancement type
  - #11: Ladder Logic Symbols
  - Tutorial how to use LaTeX fonts
- - Searchable inkscape symbols
+ - Searchable Inkscape symbols
 ### Updated
  - Bring some named symbols to the Inkscape symbols (searchable)
 ### Fixed
@@ -19,7 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.4.0] - 2023-02-08
 ### Added
- - Add electrolyth capacitor, PWM source
+ - Add electrolytic capacitor, PWM source
  - Add fan, BNC socket, inductor and capacitor drawings
  - Add coaxial cable
  - Add inductor toroid drawings
@@ -31,7 +31,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
  - Add source / load
  - Add power analyzer
- - Components top-view (IC's, connectors)
+ - Components top-view (integrated circuits, connectors)
  - Add flip-flop
  - Add control circuit symbols (various sum/subtract symbols)
  - Add light bulb
@@ -42,7 +42,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Update impedance analyzer
  - Minor changes to the examples
 
-### Bugfixes
+### Fixed
  - #5 was not fully fixed for colored arrows
  - Fix multiple connection lines in capacitor elements
  
@@ -58,8 +58,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - add Flyback converter
 - add wind, thermometer
 
-### Bugfixes
-- #5: Marker Color from arrows chan not be changed
+### Fixed
+- #5: Marker Color from arrows can not be changed
 
 ## [1.2.2] - 2021-09-17
 ### Added
@@ -76,7 +76,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - add mini-xy-graph
 - add test circuits: double-pulse test
 ### Changed
-- fix #2: Wrong direktion of diodes in 3L converter
+- fix #2: Wrong direction of diodes in 3L converter
 
 ## [1.2.0] - 2021-01-31
 ### Added
@@ -87,11 +87,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - add drawings: thermal heating of D2PACK with thermal vias
 
 ### Changed
-- update reamde: update getting started section, add changelog to readme
+- update readme: update getting started section, add changelog to readme
 - Releases now include the notes from the changelog-file
 
 ### Removed
-- remove Inscape_Symbols_ISO60617.svg due to it is no longer maintained by this project. All symbols from this library can be found in Inkscape_Symbols_All.svg
+- remove Inkscape_Symbols_ISO60617.svg due to it is no longer maintained by this project. All symbols from this library can be found in Inkscape_Symbols_All.svg
 
 ## [1.1.0] - 2021-01-13
 ### Added
@@ -99,17 +99,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - transformations: dq, abc, alpha-beta
 - symbols: integrator, lookup-table, driver, I- P- PI-control, oscillators
 - earth symbols
-- greek symbols
+- Greek symbols
 - AC voltage source
 - LICENSE
-- drawing symbols: impedance analyser, scope, PV, server, motor, SD-card, car, wallbox, PC
+- drawing symbols: impedance analyzer, scope, PV, server, motor, SD-card, car, wallbox, PC
 - spark gap
 - block symbols: add isolated variants of AC/DC, DC/AC, DC/DC converters
 
 ### Changed
 - fix readme instructions
-- change designators to italic
-- update example-gif grafic
+- change identifiers to italic
+- update example-gif graphic
 - fix phi sign
 - fix MOSFETs body diode (line too short)
 - fix: add connecting points to all kind of body diodes

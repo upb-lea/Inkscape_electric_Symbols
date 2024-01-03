@@ -2,6 +2,7 @@ matrix:
 - name: markdown
   sources:
   - README.md
+  - CHANGELOG.md
   aspell:
     lang: en
     d: en_US
