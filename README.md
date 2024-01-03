@@ -71,7 +71,7 @@ Drag and drop the Inkscape `.svg`-file into your writer/impress document.
 Install the symbol sheet into the following directory:
 Windows: `C:\Users\your_usersname\AppData\Roaming\inkscape\symbols`
 Linux: `~/.config/inkscape/symbols`
-MacOS: `/Users/your_usersname/.config/inkscape/symbol`
+macOS: `/Users/your_usersname/.config/inkscape/symbol`
 
 
 Open `Object` -> `Symbols` in a new document. In the symbol drop-down menu, choose `Inkscape_Symbols_All`. All symbols are searchable by name.
@@ -104,7 +104,7 @@ Debian based systems (untested):
 apt install lmodern
 ``` 
 
-Archlinux based systems:
+Arch Linux based systems:
 ```
 pacman install otf-latin-modern otf-latinmodern-math
 ```
