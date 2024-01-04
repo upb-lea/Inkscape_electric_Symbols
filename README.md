@@ -85,7 +85,7 @@ Save your drawing as `.pdf` file. While saving, use the following option in the 
 ![pdf export dialog](/Sources/pdf_export_dialog.png)     
 Now, your figure is exported e.g. as `example_figure.pdf_tex`. Also, LaTeX formulas are supported using the `.pdf_tex` format.
 
-LaTeX example code, to include this figure into your LaTeX document.
+LaTeX example code, to include this figure into your LaTeX document. Add the figure path `\graphicspath{{figures/}}` to your settings.
 ```
 \begin{figure}[htb]
 	\centering
