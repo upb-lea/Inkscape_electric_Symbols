@@ -126,7 +126,7 @@ Find the changelog [here](https://github.com/upb-lea/Inkscape_electric_Symbols/b
  * Make sure that you run the latest version of [Inkscape](https://inkscape.org/).
 ### Different grid settings when opening older (< `1.3.2`) drawings with newer Inkscape version (`1.3.2` and up)
 There is a mismatch in the grid settings. This needs to be restored for every single (old) document.
-`File` -> `Document settings` under `Grid`: The raster unit is set to `mm` but should be set to `px`.
+`File` -> `Document settings` under `Grid`: The raster unit is set to `mm` but should be set to `px`. Set the `Distance X` and `Distance Y` to `1`.
 
 
 
