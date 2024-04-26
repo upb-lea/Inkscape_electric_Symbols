@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Brain
  - Speedometer
  - Magnifying glass
+ - toroid core with primary/secondary winding
+ - toroid core with bifilar winding
 
 ## [1.5.0] - 2024-01-03
 ### Added
