@@ -15,6 +15,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - toroid core with primary/secondary winding
  - toroid core with bifilar winding
  - diode variations
+ - GaN HEMPT Depletion Type
+ - GaN GIT Enhancement/Depletion Type
+ 
+### Fixed
+ - GaN HEMPT vertical lines
 
 ## [1.5.0] - 2024-01-03
 ### Added

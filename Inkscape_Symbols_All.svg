@@ -6961,60 +6961,6 @@
          id="title90670">PNP</title>
     </symbol>
     <symbol
-       id="g9054-4">
-      <title
-         id="title13842">GaN</title>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 37.041666,8.60417 v 3.43957"
-         id="path6289-8-2-6"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 37.041666,19.18749 V 15.747907"
-         id="path6291-4-0-9"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 34.395832,13.102073 V 11.24999"
-         id="path11094-5-2"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 30.427082,13.895823 h 3.96875"
-         id="path11096-9-2"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 34.395833,12.04373 h 2.645834"
-         id="path11102-2-4"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-68-6-1)"
-         d="M 36.33557,15.747907 H 34.483487"
-         id="path5718-7-5-66-8-7"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 34.395831,16.512315 10e-7,-1.558158"
-         id="path11094-5-6-7"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 34.395832,14.42499 V 13.63124"
-         id="path11094-5-6-3-5"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <title
-         id="title93382">GaN</title>
-    </symbol>
-    <symbol
        id="g18298">
       <title
          id="title13844">Bidirectional_GaN</title>
@@ -15998,6 +15944,230 @@
          d="m 30.427084,105.83335 1.322917,2.64584 h -2.645833 l 1.322916,-2.64584"
          id="path17-3" />
     </symbol>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleInM-68-6-1-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path5871-92-0-8-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleInM-68-6-1-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path5871-92-0-8-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleInM-68-6-1-1-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path5871-92-0-8-8-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <symbol
+       id="GaN_GIT_Depletion">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 78.052086,232.83338 v 3.43957"
+         id="path6289-8-2-6-3-1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 78.052086,243.4167 v -3.43958"
+         id="path6291-4-0-9-7-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 75.406252,239.97712 h 2.645834"
+         id="path11096-9-2-9-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 75.406253,236.27294 h 2.645834"
+         id="path11102-2-4-2-8"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-68-6-1-1-7)"
+         d="m 74.612502,239.97712 h -3.175"
+         id="path5718-7-5-66-8-7-2-4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 75.406251,240.74152 10e-7,-5.26232"
+         id="path11094-5-6-7-8-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </symbol>
+    <symbol
+       id="GaN_HEMPT_Depletion">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 78.052086,219.6042 v 3.43957"
+         id="path6289-8-2-6-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 78.052086,230.18752 v -3.43958"
+         id="path6291-4-0-9-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 71.437502,224.89585 h 3.96875"
+         id="path11096-9-2-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 75.406253,223.04376 h 2.645834"
+         id="path11102-2-4-7"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-68-6-1-3)"
+         d="M 77.34599,226.74794 H 75.493907"
+         id="path5718-7-5-66-8-7-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 75.406251,227.51234 10e-7,-5.26231"
+         id="path11094-5-6-7-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </symbol>
+    <symbol
+       id="GaN_HEMPT_Enhancement">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 30.427084,219.6042 v 3.43957"
+         id="path6289-8-2-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 30.427084,230.18752 v -3.43958"
+         id="path6291-4-0-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 27.78125,223.83753 v -1.58751"
+         id="path11094-5-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 23.8125,224.89585 h 3.96875"
+         id="path11096-9-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 27.781251,223.04376 h 2.645834"
+         id="path11102-2-4"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-68-6-1)"
+         d="M 29.720988,226.74794 H 27.868905"
+         id="path5718-7-5-66-8-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 27.781249,227.51234 1e-6,-1.55815"
+         id="path11094-5-6-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 27.78125,225.42502 V 224.3667"
+         id="path11094-5-6-3-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </symbol>
+    <symbol
+       id="GaN_GIT_Enhancement">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 30.427084,232.83338 v 3.43957"
+         id="path6289-8-2-6-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 30.427084,243.4167 v -3.43958"
+         id="path6291-4-0-9-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 27.78125,237.06671 V 235.4792"
+         id="path11094-5-2-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 27.78125,239.97712 h 2.645834"
+         id="path11096-9-2-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 27.781251,236.27294 h 2.645834"
+         id="path11102-2-4-2"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-68-6-1-1)"
+         d="m 26.9875,239.97712 h -3.175"
+         id="path5718-7-5-66-8-7-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 27.781249,240.74152 1e-6,-1.55815"
+         id="path11094-5-6-7-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 27.78125,238.6542 v -1.05832"
+         id="path11094-5-6-3-5-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </symbol>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -16017,10 +16187,10 @@
      fit-margin-left="0"
      fit-margin-top="0"
      inkscape:window-maximized="1"
-     inkscape:window-y="32"
-     inkscape:window-x="0"
-     inkscape:window-height="964"
-     inkscape:window-width="1280"
+     inkscape:window-y="0"
+     inkscape:window-x="1920"
+     inkscape:window-height="1052"
+     inkscape:window-width="1920"
      inkscape:bbox-nodes="false"
      inkscape:snap-intersection-paths="false"
      inkscape:object-paths="false"
@@ -16030,8 +16200,8 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="859.88418"
-     inkscape:cx="1270.3103"
+     inkscape:cy="798.3794"
+     inkscape:cx="1244.2891"
      inkscape:zoom="0.42273135"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -21320,37 +21490,115 @@
          id="tspan12857">(normally-on)</tspan></text>
     <text
        id="text9217-9"
-       y="239.41699"
-       x="43.497784"
+       y="222.05107"
+       x="43.294601"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="239.41699"
-         x="43.497784"
+         y="222.05107"
+         x="43.294601"
          id="tspan9215-6"
-         sodipodi:role="line">GaN Transistor</tspan></text>
+         sodipodi:role="line">GaN HEMPT</tspan><tspan
+         style="stroke-width:0.264583"
+         y="225.57884"
+         x="43.294601"
+         sodipodi:role="line"
+         id="tspan8">Enhancement Type</tspan><tspan
+         style="stroke-width:0.264583"
+         y="229.10663"
+         x="43.294601"
+         sodipodi:role="line"
+         id="tspan9">(normally off)</tspan></text>
+    <text
+       id="text9217-9-6"
+       y="235.7438"
+       x="43.294601"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="235.7438"
+         x="43.294601"
+         id="tspan9215-6-1"
+         sodipodi:role="line">GaN GIT</tspan><tspan
+         style="stroke-width:0.264583"
+         y="239.27158"
+         x="43.294601"
+         sodipodi:role="line"
+         id="tspan8-0">Enhancement Type</tspan><tspan
+         style="stroke-width:0.264583"
+         y="242.79936"
+         x="43.294601"
+         sodipodi:role="line"
+         id="tspan9-63">(normally off)</tspan></text>
+    <text
+       id="text9217-9-0"
+       y="222.05107"
+       x="86.950859"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="222.05107"
+         x="86.950859"
+         id="tspan9215-6-6"
+         sodipodi:role="line">GaN HEMPT</tspan><tspan
+         style="stroke-width:0.264583"
+         y="225.57884"
+         x="86.950859"
+         sodipodi:role="line"
+         id="tspan8-2">Depletion Type</tspan><tspan
+         style="stroke-width:0.264583"
+         y="229.10663"
+         x="86.950859"
+         sodipodi:role="line"
+         id="tspan9-6">(normally on)</tspan></text>
+    <text
+       id="text9217-9-0-0"
+       y="235.7438"
+       x="86.950859"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="235.7438"
+         x="86.950859"
+         id="tspan9215-6-6-6"
+         sodipodi:role="line">GaN GIT</tspan><tspan
+         style="stroke-width:0.264583"
+         y="239.27158"
+         x="86.950859"
+         sodipodi:role="line"
+         id="tspan8-2-1">Depletion Type</tspan><tspan
+         style="stroke-width:0.264583"
+         y="242.79936"
+         x="86.950859"
+         sodipodi:role="line"
+         id="tspan9-6-5">(normally on)</tspan></text>
     <text
        id="text9217-9-2"
-       y="251.35422"
-       x="43.65625"
+       y="251.88338"
+       x="43.127083"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="251.35422"
-         x="43.65625"
+         y="251.88338"
+         x="43.127083"
          id="tspan9215-6-5"
          sodipodi:role="line">Bidirectional GaN Transistor</tspan></text>
     <text
        id="text14831-4"
-       y="212.44531"
+       y="210.85782"
        x="43.379269"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="212.44531"
+         y="210.85782"
          x="43.379269"
          id="tspan14829-0"
-         sodipodi:role="line">NPN Bipolar Transistor</tspan></text>
+         sodipodi:role="line">NPN Bipolar </tspan><tspan
+         style="stroke-width:0.264583"
+         y="214.38559"
+         x="43.379269"
+         sodipodi:role="line"
+         id="tspan1">Transistor</tspan></text>
     <text
        id="text5191-0-4-7-3-6-2-7-17-9-0"
        y="132.0885"
@@ -21443,13 +21691,13 @@
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
        id="text5191-0-4-7-3-6-0-8-8-6"
-       y="239.24478"
-       x="31.762402"
+       y="225.98384"
+       x="31.862715"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
-         y="239.24478"
-         x="31.762402"
+         y="225.98384"
+         x="31.862715"
          id="tspan5189-6-9-5-6-8-9-8-5-1"
          sodipodi:role="line"><tspan
            id="tspan13717"
@@ -21473,13 +21721,13 @@
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
        id="text5191-0-4-7-3-6-0-8-9-9-7"
-       y="226.01562"
-       x="31.762402"
+       y="212.78645"
+       x="79.387405"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
-         y="226.01562"
-         x="31.762402"
+         y="212.78645"
+         x="79.387405"
          id="tspan5189-6-9-5-6-8-9-8-0-6-5"
          sodipodi:role="line"><tspan
            id="tspan13715"
@@ -21488,15 +21736,20 @@
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
        id="text14831-70"
-       y="225.67447"
-       x="43.379269"
+       y="210.85782"
+       x="87.035522"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="225.67447"
-         x="43.379269"
+         y="210.85782"
+         x="87.035522"
          id="tspan14829-4"
-         sodipodi:role="line">PNP Bipolar Transistor</tspan></text>
+         sodipodi:role="line">PNP Bipolar </tspan><tspan
+         style="stroke-width:0.264583"
+         y="214.38559"
+         x="87.035522"
+         sodipodi:role="line"
+         id="tspan2">Transistor</tspan></text>
     <text
        id="text26029"
        y="247.09122"
@@ -44013,11 +44266,7 @@
     <use
        xlink:href="#g17860-2"
        id="use90680"
-       transform="translate(1.3229173,140.88546)" />
-    <use
-       xlink:href="#g9054-4"
-       id="use93393"
-       transform="translate(-6.6145827,224.2292)" />
+       transform="translate(48.94792,127.65629)" />
     <use
        xlink:href="#g18298"
        id="use96126"
@@ -46447,5 +46696,62 @@
     <use
        xlink:href="#Diode_full"
        id="use37" />
+    <text
+       id="text5191-0-4-7-3-6-0-8-8-6-9"
+       y="239.21303"
+       x="31.862715"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="239.21303"
+         x="31.862715"
+         id="tspan5189-6-9-5-6-8-9-8-5-1-2"
+         sodipodi:role="line"><tspan
+           id="tspan13717-0"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">T</tspan><tspan
+           id="tspan5788-0-9-1-9-3-4-0-3-2"
+           style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
+    <text
+       id="text5191-0-4-7-3-6-0-8-8-6-9-1"
+       y="239.21303"
+       x="79.487717"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="239.21303"
+         x="79.487717"
+         id="tspan5189-6-9-5-6-8-9-8-5-1-2-2"
+         sodipodi:role="line"><tspan
+           id="tspan13717-0-9"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">T</tspan><tspan
+           id="tspan5788-0-9-1-9-3-4-0-3-2-3"
+           style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
+    <text
+       id="text5191-0-4-7-3-6-0-8-8-6-5"
+       y="225.98383"
+       x="79.487717"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="225.98383"
+         x="79.487717"
+         id="tspan5189-6-9-5-6-8-9-8-5-1-3"
+         sodipodi:role="line"><tspan
+           id="tspan13717-5"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">T</tspan><tspan
+           id="tspan5788-0-9-1-9-3-4-0-3-6"
+           style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
+    <use
+       xlink:href="#GaN_GIT_Depletion"
+       id="use12" />
+    <use
+       xlink:href="#GaN_HEMPT_Depletion"
+       id="use13" />
+    <use
+       xlink:href="#GaN_HEMPT_Enhancement"
+       id="use14" />
+    <use
+       xlink:href="#GaN_GIT_Enhancement"
+       id="use15" />
   </g>
 </svg>
