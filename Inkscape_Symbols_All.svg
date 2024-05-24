@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    sodipodi:docname="Inkscape_Symbols_All.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    id="svg8"
    version="1.1"
    viewBox="0 0 650 450"
@@ -15998,6 +15998,58 @@
          d="m 30.427084,105.83335 1.322917,2.64584 h -2.645833 l 1.322916,-2.64584"
          id="path17-3" />
     </symbol>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleInM-68-6-1-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         transform="scale(-0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path5871-92-0-8-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker14518-67"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="4.2595263"
+       markerHeight="4.9243083"
+       preserveAspectRatio="xMidYMid">
+      <path
+         id="path14516-5"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker14518-67-1"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       viewBox="0 0 4.2595265 4.9243081"
+       markerWidth="4.2595263"
+       markerHeight="4.9243083"
+       preserveAspectRatio="xMidYMid">
+      <path
+         id="path14516-5-2"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         transform="scale(0.4)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -16017,10 +16069,10 @@
      fit-margin-left="0"
      fit-margin-top="0"
      inkscape:window-maximized="1"
-     inkscape:window-y="32"
-     inkscape:window-x="0"
-     inkscape:window-height="964"
-     inkscape:window-width="1280"
+     inkscape:window-y="-8"
+     inkscape:window-x="3832"
+     inkscape:window-height="1137"
+     inkscape:window-width="1920"
      inkscape:bbox-nodes="false"
      inkscape:snap-intersection-paths="false"
      inkscape:object-paths="false"
@@ -16030,9 +16082,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="859.88418"
-     inkscape:cx="1270.3103"
-     inkscape:zoom="0.42273135"
+     inkscape:cy="1376.4309"
+     inkscape:cx="259.26999"
+     inkscape:zoom="2.3913296"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -21320,15 +21372,25 @@
          id="tspan12857">(normally-on)</tspan></text>
     <text
        id="text9217-9"
-       y="239.41699"
+       y="222.4837"
        x="43.497784"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="239.41699"
+         y="222.4837"
          x="43.497784"
          id="tspan9215-6"
-         sodipodi:role="line">GaN Transistor</tspan></text>
+         sodipodi:role="line">GaN HEMT</tspan><tspan
+         style="stroke-width:0.264583"
+         y="226.01147"
+         x="43.497784"
+         sodipodi:role="line"
+         id="tspan1">Enhancement Type</tspan><tspan
+         style="stroke-width:0.264583"
+         y="229.53926"
+         x="43.497784"
+         sodipodi:role="line"
+         id="tspan2">(normally off)</tspan></text>
     <text
        id="text9217-9-2"
        y="251.35422"
@@ -21443,12 +21505,12 @@
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
        id="text5191-0-4-7-3-6-0-8-8-6"
-       y="239.24478"
+       y="226.01561"
        x="31.762402"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
-         y="239.24478"
+         y="226.01561"
          x="31.762402"
          id="tspan5189-6-9-5-6-8-9-8-5-1"
          sodipodi:role="line"><tspan
@@ -21473,13 +21535,13 @@
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
        id="text5191-0-4-7-3-6-0-8-9-9-7"
-       y="226.01562"
-       x="31.762402"
+       y="212.78645"
+       x="86.001984"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
-         y="226.01562"
-         x="31.762402"
+         y="212.78645"
+         x="86.001984"
          id="tspan5189-6-9-5-6-8-9-8-0-6-5"
          sodipodi:role="line"><tspan
            id="tspan13715"
@@ -21488,13 +21550,13 @@
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
        id="text14831-70"
-       y="225.67447"
-       x="43.379269"
+       y="212.4453"
+       x="97.618851"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="225.67447"
-         x="43.379269"
+         y="212.4453"
+         x="97.618851"
          id="tspan14829-4"
          sodipodi:role="line">PNP Bipolar Transistor</tspan></text>
     <text
@@ -44013,11 +44075,62 @@
     <use
        xlink:href="#g17860-2"
        id="use90680"
-       transform="translate(1.3229173,140.88546)" />
-    <use
-       xlink:href="#g9054-4"
+       transform="translate(55.562503,127.65629)" />
+    <g
        id="use93393"
-       transform="translate(-6.6145827,224.2292)" />
+       transform="translate(-6.6145822,211.00003)">
+      <title
+         id="title31">GaN</title>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.041666,8.60417 v 3.43957"
+         id="path31"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 37.041666,19.18749 V 15.747907"
+         id="path32"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.395833,12.837505 -1e-6,-1.587515"
+         id="path33"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 30.427082,13.895823 h 3.96875"
+         id="path34"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.395833,12.04373 h 2.645834"
+         id="path35"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-68-6-1)"
+         d="M 36.33557,15.747907 H 34.483487"
+         id="path37"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.395831,16.512315 10e-7,-1.558158"
+         id="path38"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.395832,14.42499 1e-6,-1.058319"
+         id="path39"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <title
+         id="title39">GaN</title>
+    </g>
     <use
        xlink:href="#g18298"
        id="use96126"
@@ -46447,5 +46560,224 @@
     <use
        xlink:href="#Diode_full"
        id="use37" />
+    <text
+       id="text9217-9-3"
+       y="222.4837"
+       x="97.737373"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="222.4837"
+         x="97.737373"
+         sodipodi:role="line"
+         id="tspan3-8-3">GaN HEMT</tspan><tspan
+         style="stroke-width:0.264583"
+         y="226.01147"
+         x="97.737373"
+         sodipodi:role="line"
+         id="tspan5">Depletion Type</tspan><tspan
+         style="stroke-width:0.264583"
+         y="229.53926"
+         x="97.737373"
+         sodipodi:role="line"
+         id="tspan6">(normally on)</tspan></text>
+    <text
+       id="text5191-0-4-7-3-6-0-8-8-6-9"
+       y="226.01562"
+       x="86.001991"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="226.01562"
+         x="86.001991"
+         id="tspan5189-6-9-5-6-8-9-8-5-1-6"
+         sodipodi:role="line"><tspan
+           id="tspan13717-8"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">T</tspan><tspan
+           id="tspan5788-0-9-1-9-3-4-0-3-9"
+           style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
+    <g
+       id="use93393-8"
+       transform="translate(47.625003,211.00003)">
+      <title
+         id="title4">GaN</title>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.041666,8.60417 v 3.43957"
+         id="path18"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 37.041666,19.18749 V 15.747907"
+         id="path19"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.395833,16.541674 -1e-6,-5.291684"
+         id="path23"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 30.427082,13.895823 h 3.96875"
+         id="path24"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.395833,12.04373 h 2.645834"
+         id="path25"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInM-68-6-1-7)"
+         d="M 36.33557,15.747907 H 34.483487"
+         id="path26"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <title
+         id="title28">GaN</title>
+    </g>
+    <g
+       id="use93393-1"
+       transform="translate(-6.6145822,224.2292)">
+      <title
+         id="title36">GaN</title>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.041666,8.60417 v 3.43957"
+         id="path36"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 37.041666,19.18749 V 15.747907"
+         id="path43"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.395833,12.837502 v -1.5875"
+         id="path44"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14518-67)"
+         d="m 30.427082,15.747924 h 3.175"
+         id="path45"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.395833,12.04373 h 2.645834"
+         id="path46"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 37.041666,15.747907 H 34.483487"
+         id="path47"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.395833,16.541669 v -1.5875"
+         id="path48"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <title
+         id="title49">GaN</title>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 34.395833,14.424995 V 13.366676"
+         id="path39-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       id="text9217-9-3-0"
+       y="235.46339"
+       x="43.497784"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="235.46339"
+         x="43.497784"
+         sodipodi:role="line"
+         id="tspan3-8-6">GaN GIT</tspan><tspan
+         style="stroke-width:0.264583"
+         y="238.99117"
+         x="43.497784"
+         sodipodi:role="line"
+         id="tspan7">Enhancement Type</tspan><tspan
+         style="stroke-width:0.264583"
+         y="242.51895"
+         x="43.497784"
+         sodipodi:role="line"
+         id="tspan8">(normally off)</tspan></text>
+    <g
+       id="use93393-1-4"
+       transform="translate(47.625003,224.2292)">
+      <title
+         id="title36-6">GaN</title>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 37.041666,8.60417 v 3.43957"
+         id="path36-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 37.041666,19.18749 V 15.747907"
+         id="path43-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14518-67-1)"
+         d="m 30.427082,15.747924 h 3.175"
+         id="path45-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.395833,12.04373 h 2.645834"
+         id="path46-9"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 37.041666,15.747907 H 34.483487"
+         id="path47-4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.395833,16.541669 0,-5.291667"
+         id="path48-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <title
+         id="title49-5">GaN</title>
+    </g>
+    <text
+       id="text9217-9-3-0-2"
+       y="235.46339"
+       x="97.737373"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="235.46339"
+         x="97.737373"
+         sodipodi:role="line"
+         id="tspan3-8-6-9">GaN GIT</tspan><tspan
+         style="stroke-width:0.264583"
+         y="238.99117"
+         x="97.737373"
+         sodipodi:role="line"
+         id="tspan7-6">Depletion Type</tspan><tspan
+         style="stroke-width:0.264583"
+         y="242.51895"
+         x="97.737373"
+         sodipodi:role="line"
+         id="tspan8-7">(normally on)</tspan></text>
   </g>
 </svg>
