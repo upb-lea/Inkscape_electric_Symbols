@@ -96,7 +96,10 @@ LaTeX example code, to include this figure into your LaTeX document. Add the fig
 \end{figure}
 ```
 
-### Option 2: Linux users only 
+### Option 2: Inkscape integrated formula editor
+Navigate to `Extensions` -> `Text` -> `Formula (pdflatex)` and type your formula using LaTeX syntax.
+
+### Option 3: Install LaTeX font as system font (Linux users only)
 Debian based systems (untested):
 ```
 apt install lmodern
