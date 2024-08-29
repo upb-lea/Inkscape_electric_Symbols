@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    sodipodi:docname="Inkscape_Symbols_All.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    id="svg8"
    version="1.1"
    viewBox="0 0 650 450"
@@ -16164,6 +16164,41 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
     </symbol>
+    <symbol
+       id="connector_coaxial_power">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 223.57293,17.197945 h 2.64583"
+         id="path19"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="ellipse20"
+         cx="223.57294"
+         cy="17.197947"
+         rx="0.40116644"
+         ry="0.39901915" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="ellipse21"
+         sodipodi:type="arc"
+         sodipodi:cx="223.57292"
+         sodipodi:cy="17.197945"
+         sodipodi:rx="1.3229131"
+         sodipodi:ry="1.3229131"
+         sodipodi:start="0.78539816"
+         sodipodi:end="5.4977871"
+         sodipodi:arc-type="arc"
+         d="m 224.50836,18.133385 a 1.3229131,1.3229131 0 0 1 -1.87088,0 1.3229131,1.3229131 0 0 1 0,-1.870881 1.3229131,1.3229131 0 0 1 1.87088,0"
+         sodipodi:open="true" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 219.60418,17.197945 h 2.6387"
+         id="path21"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </symbol>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -16183,10 +16218,10 @@
      fit-margin-left="0"
      fit-margin-top="0"
      inkscape:window-maximized="1"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="964"
-     inkscape:window-width="1280"
+     inkscape:window-height="1131"
+     inkscape:window-width="1920"
      inkscape:bbox-nodes="false"
      inkscape:snap-intersection-paths="false"
      inkscape:object-paths="false"
@@ -16196,9 +16231,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="710.85336"
-     inkscape:cx="1159.1286"
-     inkscape:zoom="0.42273135"
+     inkscape:cy="1631.7301"
+     inkscape:cx="665.56318"
+     inkscape:zoom="8.4064145"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -18259,6 +18294,17 @@
          x="102.90844"
          id="tspan5189-7-6-3-6"
          sodipodi:role="line">Switches</tspan></text>
+    <text
+       id="text5191-94-3-9-2-7"
+       y="303.1702"
+       x="183.6272"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="303.1702"
+         x="183.6272"
+         id="tspan5189-7-6-3-6-8"
+         sodipodi:role="line">Connectors</tspan></text>
     <text
        id="text5191-3"
        y="202.21404"
@@ -21889,6 +21935,17 @@
          x="114.90771"
          id="tspan26349"
          sodipodi:role="line">Switch</tspan></text>
+    <text
+       id="text26351-5"
+       y="307.71045"
+       x="191.55833"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="307.71045"
+         x="191.55833"
+         id="tspan26349-0"
+         sodipodi:role="line">Coaxial power</tspan></text>
     <text
        id="text26351-0"
        y="311.93716"
@@ -46748,5 +46805,9 @@
     <use
        xlink:href="#Relay"
        id="use8" />
+    <use
+       xlink:href="#connector_coaxial_power"
+       id="use21"
+       transform="translate(-35.718756,289.71876)" />
   </g>
 </svg>
