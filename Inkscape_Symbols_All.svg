@@ -16164,6 +16164,96 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
     </symbol>
+    <symbol
+       id="Z-Diode_1">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="M 62.177085,71.437529 V 60.854195"
+         id="path18-7"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 62.970835,64.822939 h -1.5875"
+         id="path18-3-9-0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 63.500002,64.293779 -0.529167,0.52916"
+         id="path18-3-9-2-23"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 61.383335,64.822939 -0.529167,0.52917"
+         id="path18-3-9-2-0-7"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g19">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           d="m 63.500002,67.468769 h -2.645833 l 1.322916,-2.64583 z"
+           id="path19-5" />
+      </g>
+    </symbol>
+    <symbol
+       id="Z-Diode_1_empty">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="M 62.177085,91.28128 V 87.31253"
+         id="path18-36" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="M 62.177085,84.66669 V 80.69794"
+         id="path18-3-0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 62.970835,84.66669 h -1.5875"
+         id="path18-3-9-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 63.500002,84.13753 -0.529167,0.52916"
+         id="path18-3-9-2-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 61.383335,84.66669 -0.529167,0.52917"
+         id="path18-3-9-2-0-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 63.500002,87.31252 h -2.645833 l 1.322916,-2.64583 z"
+         id="path19-1" />
+    </symbol>
+    <symbol
+       id="Z-Diode_1_full">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="M 62.177085,112.44795 V 108.4792"
+         id="path18" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 62.177085,105.83336 v -3.96875"
+         id="path18-3" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 62.970835,105.83336 h -1.5875"
+         id="path18-3-9"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 63.500002,105.3042 -0.529167,0.52916"
+         id="path18-3-9-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 61.383335,105.83336 -0.529167,0.52917"
+         id="path18-3-9-2-0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 63.500002,108.47919 h -2.645833 l 1.322916,-2.64583 z"
+         id="path19" />
+    </symbol>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -16196,8 +16286,8 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="710.85336"
-     inkscape:cx="1159.1286"
+     inkscape:cy="786.55155"
+     inkscape:cx="1189.881"
      inkscape:zoom="0.42273135"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -17251,24 +17341,24 @@
     </g>
     <text
        id="text5191-94-3-37"
-       y="68.751732"
-       x="62.975655"
+       y="44.939232"
+       x="61.65274"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:2.82222px;stroke-width:0.264583"
-         y="68.751732"
-         x="62.975655"
+         y="44.939232"
+         x="61.65274"
          id="tspan5189-7-6-4"
          sodipodi:role="line">Diac</tspan></text>
     <text
        id="text5191-94-3-37-5"
-       y="68.751732"
-       x="76.199303"
+       y="44.939232"
+       x="74.876389"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:2.82222px;stroke-width:0.264583"
-         y="68.751732"
-         x="76.199303"
+         y="44.939232"
+         x="74.876389"
          id="tspan5189-7-6-4-2"
          sodipodi:role="line">Triac</tspan></text>
     <text
@@ -20771,57 +20861,57 @@
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
        id="text15574"
-       y="47.567154"
-       x="61.279984"
+       y="74.02549"
+       x="69.217491"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="47.567154"
-         x="61.279984"
+         y="74.02549"
+         x="69.217491"
          id="tspan15572"
          sodipodi:role="line">Schottky</tspan></text>
     <text
        id="text15578"
-       y="47.585068"
-       x="26.25783"
+       y="74.043404"
+       x="22.289083"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="47.585068"
-         x="26.25783"
+         y="74.043404"
+         x="22.289083"
          id="tspan15576"
          sodipodi:role="line">Diode</tspan></text>
     <text
        id="text15582"
-       y="47.625031"
-       x="39.51387"
+       y="74.083366"
+       x="35.545124"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="47.625031"
-         x="39.51387"
+         y="74.083366"
+         x="35.545124"
          id="tspan15580"
          sodipodi:role="line">LED</tspan></text>
     <text
        id="text15586"
-       y="47.585068"
-       x="48.694359"
+       y="74.043404"
+       x="51.075619"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="47.585068"
-         x="48.694359"
+         y="74.043404"
+         x="51.075619"
          id="tspan15584"
          sodipodi:role="line">Z-Diode</tspan></text>
     <text
        id="text15590"
-       y="68.733818"
-       x="47.948154"
+       y="44.921318"
+       x="46.62524"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="68.733818"
-         x="47.948154"
+         y="44.921318"
+         x="46.62524"
          id="tspan15588"
          sodipodi:role="line">Thyristor</tspan></text>
     <text
@@ -20976,13 +21066,13 @@
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
        id="text5191-0-4-7-3-4-8"
-       y="40.807251"
-       x="32.65744"
+       y="67.265587"
+       x="28.688694"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
-         y="40.807251"
-         x="32.65744"
+         y="67.265587"
+         x="28.688694"
          id="tspan5189-6-9-5-6-3-4"
          sodipodi:role="line"><tspan
            id="tspan13683"
@@ -20991,13 +21081,13 @@
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
        id="text5191-0-4-7-3-4-1"
-       y="40.807251"
-       x="44.56369"
+       y="67.265587"
+       x="40.594944"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
-         y="40.807251"
-         x="44.56369"
+         y="67.265587"
+         x="40.594944"
          id="tspan5189-6-9-5-6-3-49"
          sodipodi:role="line"><tspan
            id="tspan13685"
@@ -21006,13 +21096,13 @@
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
        id="text5191-0-4-7-3-4-0"
-       y="40.807243"
-       x="56.469944"
+       y="67.233826"
+       x="52.501198"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
-         y="40.807243"
-         x="56.469944"
+         y="67.233826"
+         x="52.501198"
          id="tspan5189-6-9-5-6-3-6"
          sodipodi:role="line"><tspan
            id="tspan13687"
@@ -21020,14 +21110,29 @@
            id="tspan5788-0-9-1-0-8"
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
-       id="text5191-0-4-7-3-4-9"
-       y="40.80724"
-       x="68.376175"
+       id="text5191-0-4-7-3-4-0-7"
+       y="67.233826"
+       x="64.423401"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
-         y="40.80724"
-         x="68.376175"
+         y="67.233826"
+         x="64.423401"
+         id="tspan5189-6-9-5-6-3-6-3"
+         sodipodi:role="line"><tspan
+           id="tspan13687-6"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">D</tspan><tspan
+           id="tspan5788-0-9-1-0-8-1"
+           style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
+    <text
+       id="text5191-0-4-7-3-4-9"
+       y="67.265579"
+       x="76.313675"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="67.265579"
+         x="76.313675"
          id="tspan5189-6-9-5-6-3-2"
          sodipodi:role="line"><tspan
            id="tspan13689"
@@ -21036,13 +21141,13 @@
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
        id="text5191-0-4-7-3-4-6"
-       y="40.807236"
-       x="81.605339"
+       y="67.265572"
+       x="89.542839"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
-         y="40.807236"
-         x="81.605339"
+         y="67.265572"
+         x="89.542839"
          id="tspan5189-6-9-5-6-3-495"
          sodipodi:role="line"><tspan
            id="tspan13691"
@@ -21051,62 +21156,62 @@
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
        id="text15914"
-       y="47.496872"
-       x="73.829765"
+       y="73.955208"
+       x="81.767265"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="47.496872"
-         x="73.829765"
+         y="73.955208"
+         x="81.767265"
          id="tspan15912"
          sodipodi:role="line">Bipolar</tspan><tspan
          id="tspan15916"
          style="stroke-width:0.264583"
-         y="51.024647"
-         x="73.829765"
+         y="77.482986"
+         x="81.767265"
          sodipodi:role="line">Z-Diode</tspan></text>
     <text
        id="text15920"
-       y="68.751732"
-       x="26.675375"
+       y="44.939232"
+       x="25.352461"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="68.751732"
-         x="26.675375"
+         y="44.939232"
+         x="25.352461"
          id="tspan15918"
          sodipodi:role="line">Valve</tspan></text>
     <text
        id="text15920-0"
-       y="76.464615"
-       x="24.366365"
+       y="56.620861"
+       x="23.521824"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="76.464615"
-         x="24.366365"
+         y="56.620861"
+         x="23.521824"
          id="tspan15918-5"
          sodipodi:role="line">Diode variations</tspan></text>
     <text
        id="text15924"
-       y="68.751732"
-       x="38.581627"
+       y="44.939232"
+       x="37.258713"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
-         y="68.751732"
-         x="38.581627"
+         y="44.939232"
+         x="37.258713"
          id="tspan15922"
          sodipodi:role="line">Valve</tspan></text>
     <text
        id="text5191-0-4-7-3-6-2-7-1"
-       y="61.973923"
-       x="33.039848"
+       y="38.161423"
+       x="31.716934"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
-         y="61.973923"
-         x="33.039848"
+         y="38.161423"
+         x="31.716934"
          id="tspan5189-6-9-5-6-8-6-8-7"
          sodipodi:role="line"><tspan
            id="tspan13693"
@@ -21115,13 +21220,13 @@
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
        id="text5191-0-4-7-3-6-2-7-7"
-       y="61.973923"
-       x="44.946098"
+       y="38.161423"
+       x="43.623184"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
-         y="61.973923"
-         x="44.946098"
+         y="38.161423"
+         x="43.623184"
          id="tspan5189-6-9-5-6-8-6-8-2"
          sodipodi:role="line"><tspan
            id="tspan13695"
@@ -21130,13 +21235,13 @@
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
        id="text5191-0-4-7-3-6-2-7-10"
-       y="61.973923"
-       x="56.852348"
+       y="38.161423"
+       x="55.529434"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
-         y="61.973923"
-         x="56.852348"
+         y="38.161423"
+         x="55.529434"
          id="tspan5189-6-9-5-6-8-6-8-6"
          sodipodi:role="line"><tspan
            id="tspan13697"
@@ -21145,13 +21250,13 @@
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
        id="text5191-0-4-7-3-6-2-7-5"
-       y="61.973923"
-       x="70.081505"
+       y="38.161423"
+       x="68.758591"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
-         y="61.973923"
-         x="70.081505"
+         y="38.161423"
+         x="68.758591"
          id="tspan5189-6-9-5-6-8-6-8-9"
          sodipodi:role="line"><tspan
            id="tspan13699"
@@ -21160,13 +21265,13 @@
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
        id="text5191-0-4-7-3-6-2-7-9"
-       y="61.973923"
-       x="83.310669"
+       y="38.161423"
+       x="81.987755"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
-         y="61.973923"
-         x="83.310669"
+         y="38.161423"
+         x="81.987755"
          id="tspan5189-6-9-5-6-8-6-8-0"
          sodipodi:role="line"><tspan
            id="tspan13701"
@@ -44166,43 +44271,43 @@
     <use
        xlink:href="#g13419"
        id="use51287"
-       transform="translate(-50.270834,-31.093714)" />
+       transform="translate(-54.239582,-4.6353748)" />
     <use
        xlink:href="#g15781"
        id="use53558"
-       transform="translate(6.6145904,64.156292)" />
+       transform="translate(2.6458436,90.614632)" />
     <use
        xlink:href="#g10556"
        id="use55849"
-       transform="translate(-46.302084,-31.093714)" />
+       transform="translate(-50.270831,-4.6353738)" />
     <use
        xlink:href="#g10606"
        id="use58162"
-       transform="translate(-41.010417,-31.093714)" />
+       transform="translate(-33.072913,-4.6353748)" />
     <use
        xlink:href="#g10711"
        id="use60500"
-       transform="translate(-34.395831,-31.093714)" />
+       transform="translate(-26.458333,-4.6353748)" />
     <use
        xlink:href="#g13436"
        id="use62859"
-       transform="translate(-50.270834,-23.156208)" />
+       transform="translate(-51.593749,-46.968707)" />
     <use
        xlink:href="#g9282"
        id="use65236"
-       transform="translate(-1.3229146,90.614624)" />
+       transform="translate(-2.6458295,66.802125)" />
     <use
        xlink:href="#g10763"
        id="use67632"
-       transform="translate(-39.6875,-23.156208)" />
+       transform="translate(-41.010415,-46.968707)" />
     <use
        xlink:href="#g10928"
        id="use70051"
-       transform="translate(-35.718748,-37.708304)" />
+       transform="translate(-37.041663,-61.520803)" />
     <use
        xlink:href="#g10946"
        id="use72498"
-       transform="translate(-31.750001,-37.708304)" />
+       transform="translate(-33.072916,-61.520803)" />
     <use
        xlink:href="#g3996"
        id="use74979"
@@ -46379,56 +46484,56 @@
     <text
        id="text15574-0"
        y="93.869247"
-       x="61.279984"
+       x="69.217484"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="93.869247"
-         x="61.279984"
+         x="69.217484"
          id="tspan15572-9"
          sodipodi:role="line">Schottky</tspan></text>
     <text
        id="text15578-3"
        y="93.887161"
-       x="26.257832"
+       x="22.289082"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="93.887161"
-         x="26.257832"
+         x="22.289082"
          id="tspan15576-6"
          sodipodi:role="line">Diode</tspan></text>
     <text
        id="text15582-0"
        y="93.927124"
-       x="39.51387"
+       x="35.54512"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="93.927124"
-         x="39.51387"
+         x="35.54512"
          id="tspan15580-6"
          sodipodi:role="line">LED</tspan></text>
     <text
        id="text15586-2"
        y="93.887161"
-       x="48.694359"
+       x="51.075619"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="93.887161"
-         x="48.694359"
+         x="51.075619"
          id="tspan15584-6"
          sodipodi:role="line">Z-Diode</tspan></text>
     <text
        id="text5191-0-4-7-3-4-8-7"
        y="87.109344"
-       x="32.65744"
+       x="28.68869"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
          y="87.109344"
-         x="32.65744"
+         x="28.68869"
          id="tspan5189-6-9-5-6-3-4-9"
          sodipodi:role="line"><tspan
            id="tspan13683-2"
@@ -46438,12 +46543,12 @@
     <text
        id="text5191-0-4-7-3-4-1-2"
        y="87.109344"
-       x="44.56369"
+       x="40.59494"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
          y="87.109344"
-         x="44.56369"
+         x="40.59494"
          id="tspan5189-6-9-5-6-3-49-3"
          sodipodi:role="line"><tspan
            id="tspan13685-7"
@@ -46453,12 +46558,12 @@
     <text
        id="text5191-0-4-7-3-4-0-9"
        y="87.109337"
-       x="56.469944"
+       x="52.501198"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
          y="87.109337"
-         x="56.469944"
+         x="52.501198"
          id="tspan5189-6-9-5-6-3-6-2"
          sodipodi:role="line"><tspan
            id="tspan13687-2"
@@ -46468,12 +46573,12 @@
     <text
        id="text5191-0-4-7-3-4-9-9"
        y="87.109329"
-       x="68.376175"
+       x="76.313675"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
          y="87.109329"
-         x="68.376175"
+         x="76.313675"
          id="tspan5189-6-9-5-6-3-2-7"
          sodipodi:role="line"><tspan
            id="tspan13689-3"
@@ -46483,12 +46588,12 @@
     <text
        id="text5191-0-4-7-3-4-6-1"
        y="87.109329"
-       x="81.605347"
+       x="89.542847"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
          y="87.109329"
-         x="81.605347"
+         x="89.542847"
          id="tspan5189-6-9-5-6-3-495-2"
          sodipodi:role="line"><tspan
            id="tspan13691-9"
@@ -46498,72 +46603,72 @@
     <text
        id="text15914-1"
        y="93.798965"
-       x="73.829773"
+       x="81.767273"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="93.798965"
-         x="73.829773"
+         x="81.767273"
          id="tspan15912-9"
          sodipodi:role="line">Bipolar</tspan><tspan
          id="tspan15916-4"
          style="stroke-width:0.264583"
          y="97.326744"
-         x="73.829773"
+         x="81.767273"
          sodipodi:role="line">Z-Diode</tspan></text>
     <text
        id="text15574-0-8"
        y="115.0359"
-       x="61.279984"
+       x="69.217484"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="115.0359"
-         x="61.279984"
+         x="69.217484"
          id="tspan15572-9-4"
          sodipodi:role="line">Schottky</tspan></text>
     <text
        id="text15578-3-8"
        y="115.0538"
-       x="26.25783"
+       x="22.28908"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="115.0538"
-         x="26.25783"
+         x="22.28908"
          id="tspan15576-6-1"
          sodipodi:role="line">Diode</tspan></text>
     <text
        id="text15582-0-0"
        y="115.09377"
-       x="39.51387"
+       x="35.54512"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="115.09377"
-         x="39.51387"
+         x="35.54512"
          id="tspan15580-6-3"
          sodipodi:role="line">LED</tspan></text>
     <text
        id="text15586-2-0"
        y="115.0538"
-       x="48.694359"
+       x="51.075619"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="115.0538"
-         x="48.694359"
+         x="51.075619"
          id="tspan15584-6-4"
          sodipodi:role="line">Z-Diode</tspan></text>
     <text
        id="text5191-0-4-7-3-4-8-7-4"
        y="108.27601"
-       x="32.65744"
+       x="28.68869"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
          y="108.27601"
-         x="32.65744"
+         x="28.68869"
          id="tspan5189-6-9-5-6-3-4-9-4"
          sodipodi:role="line"><tspan
            id="tspan13683-2-4"
@@ -46573,12 +46678,12 @@
     <text
        id="text5191-0-4-7-3-4-1-2-6"
        y="108.27601"
-       x="44.56369"
+       x="40.59494"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
          y="108.27601"
-         x="44.56369"
+         x="40.59494"
          id="tspan5189-6-9-5-6-3-49-3-3"
          sodipodi:role="line"><tspan
            id="tspan13685-7-1"
@@ -46587,13 +46692,13 @@
            style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
     <text
        id="text5191-0-4-7-3-4-0-9-5"
-       y="108.27599"
-       x="56.469944"
+       y="108.24425"
+       x="52.501198"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
-         y="108.27599"
-         x="56.469944"
+         y="108.24425"
+         x="52.501198"
          id="tspan5189-6-9-5-6-3-6-2-9"
          sodipodi:role="line"><tspan
            id="tspan13687-2-6"
@@ -46603,12 +46708,12 @@
     <text
        id="text5191-0-4-7-3-4-9-9-1"
        y="108.27599"
-       x="68.376175"
+       x="76.313675"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
          y="108.27599"
-         x="68.376175"
+         x="76.313675"
          id="tspan5189-6-9-5-6-3-2-7-7"
          sodipodi:role="line"><tspan
            id="tspan13689-3-8"
@@ -46618,12 +46723,12 @@
     <text
        id="text5191-0-4-7-3-4-6-1-7"
        y="108.27599"
-       x="81.605354"
+       x="89.542854"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-size:4.23333px;stroke-width:0.264583"
          y="108.27599"
-         x="81.605354"
+         x="89.542854"
          id="tspan5189-6-9-5-6-3-495-2-4"
          sodipodi:role="line"><tspan
            id="tspan13691-9-1"
@@ -46633,61 +46738,69 @@
     <text
        id="text15914-1-5"
        y="114.96562"
-       x="73.829773"
+       x="81.767273"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="stroke-width:0.264583"
          y="114.96562"
-         x="73.829773"
+         x="81.767273"
          id="tspan15912-9-9"
          sodipodi:role="line">Bipolar</tspan><tspan
          id="tspan15916-4-7"
          style="stroke-width:0.264583"
          y="118.4934"
-         x="73.829773"
+         x="81.767273"
          sodipodi:role="line">Z-Diode</tspan></text>
     <rect
-       style="fill:none;fill-rule:evenodd;stroke-width:0.264583;stroke:#000000;stroke-linejoin:round;stroke-linecap:round"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
        id="rect17"
-       width="67.46875"
-       height="43.65625"
-       x="23.8125"
-       y="78.052116" />
+       width="76.729172"
+       height="62.177086"
+       x="19.84375"
+       y="59.531281" />
     <use
        xlink:href="#g17"
        id="use27" />
     <use
        xlink:href="#Diode"
-       id="use28" />
+       id="use28"
+       transform="translate(-3.96875)" />
     <use
        xlink:href="#LED"
-       id="use29" />
+       id="use29"
+       transform="translate(-3.96875)" />
     <use
        xlink:href="#Z-Diode"
-       id="use30" />
+       id="use30"
+       transform="translate(-2.6458333)" />
     <use
        xlink:href="#Schottky_Diode"
        id="use31"
-       transform="translate(1.3229164)" />
+       transform="translate(9.260416)" />
     <use
        xlink:href="#Bipolar_Z-Diode"
-       id="use32" />
+       id="use32"
+       transform="translate(7.937499)" />
     <use
        xlink:href="#Bipolar_Z-Diode_full"
-       id="use33" />
+       id="use33"
+       transform="translate(7.937499)" />
     <use
        xlink:href="#Schottky_Diode_full"
        id="use34"
-       transform="translate(1.3229164,1.4171928e-5)" />
+       transform="translate(9.260416,1.3146897e-5)" />
     <use
        xlink:href="#Z-Diode_full"
-       id="use35" />
+       id="use35"
+       transform="translate(-2.6458333)" />
     <use
        xlink:href="#LED_full"
-       id="use36" />
+       id="use36"
+       transform="translate(-3.96875)" />
     <use
        xlink:href="#Diode_full"
-       id="use37" />
+       id="use37"
+       transform="translate(-3.96875)" />
     <text
        id="text5191-0-4-7-3-6-0-8-8-6-9"
        y="239.21303"
@@ -46748,5 +46861,44 @@
     <use
        xlink:href="#Relay"
        id="use8" />
+    <text
+       id="text5191-0-4-7-3-4-0-93"
+       y="87.109337"
+       x="64.158813"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="87.109337"
+         x="64.158813"
+         id="tspan5189-6-9-5-6-3-6-1"
+         sodipodi:role="line"><tspan
+           id="tspan13687-9"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">D</tspan><tspan
+           id="tspan5788-0-9-1-0-8-4"
+           style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
+    <text
+       id="text5191-0-4-7-3-4-0-8"
+       y="108.24425"
+       x="64.158813"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="108.24425"
+         x="64.158813"
+         id="tspan5189-6-9-5-6-3-6-4"
+         sodipodi:role="line"><tspan
+           id="tspan13687-5"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'">D</tspan><tspan
+           id="tspan5788-0-9-1-0-8-0"
+           style="font-size:2.75167px;baseline-shift:sub;stroke-width:0.264583">1</tspan></tspan></text>
+    <use
+       xlink:href="#Z-Diode_1"
+       id="use20" />
+    <use
+       xlink:href="#Z-Diode_1_empty"
+       id="use21" />
+    <use
+       xlink:href="#Z-Diode_1_full"
+       id="use22" />
   </g>
 </svg>
