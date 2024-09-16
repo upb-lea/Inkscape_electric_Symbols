@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
  - New variant of Zener diode
  - Connectors: USB, RS232, 2x1-pin, 3x1-pin, 4x1-pin, Coax
+ - Control block for hysteresis
 
 ## [1.6.0] - 2024-08-27 
 ### Added     
