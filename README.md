@@ -52,7 +52,7 @@ Optional: Click the `watch` button to receive update notifications.
 ![Switching behavior](/Sources/Example_Switching_behaviour.png)
 
 # Set drawing size
-The best thing to do before you start drawing is to consider where the drawing will be used. For example, if the drawing will be used on an A4 (210 mm width) paper with 2.5 cm margins on each side, set the drawing width within Inkscape to 160 mm. For two-column text, use 80 mm image width. This way you will get good drawing results relative to the written text. 
+The best thing to do before you start drawing is to consider where the drawing will be used. For example, if the drawing will be used on an A4 (210 mm width) paper with 2.5 cm margins on each side, set the drawing width within Inkscape to 160 mm. For two-column text, use 80 mm image width. This way you will get good drawing results relative to the written text. Also, if you use e.g. `11pt` font size in the text and also use `11pt` for text inside the figure, they will appear as the same size in the common document.
 
 # Use high quality vector graphics inside your documentation software
 Follow the steps to use vector graphics in your documentation software. The vector graphics are rendered in very good image quality, unlike conventional png images. However, each program has its own characteristics and requires a different file format. 
