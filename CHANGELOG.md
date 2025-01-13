@@ -11,6 +11,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Control block for hysteresis
  - Opto-isolators
  - Phototransistors (NPN, PNP)
+ 
+### Fixed
+ - input arrow missing for 'Limitation' block diagrams
 
 ## [1.6.0] - 2024-08-27 
 ### Added     
