@@ -42,6 +42,10 @@ Optional: Click the `watch` button to receive update notifications.
 
 ![How to use the library](/Sources/Using_Symbols.gif)
 
+# Scientific best practice
+* Variables are written in italics
+* Indicies are written normally
+* There should be a space between the number and the unit
 
 # Examples
 ### Example Boost Converter
