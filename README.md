@@ -44,7 +44,7 @@ Optional: Click the `watch` button to receive update notifications.
 
 # Scientific best practice
 * Variables are written in italics
-* Indicies are written normally
+* Indices are written normally
 * There should be a space between the number and the unit
 
 # Examples
