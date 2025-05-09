@@ -17620,6 +17620,22 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
     </symbol>
+    <symbol
+       id="voltage_source">
+      <title
+         id="title13846">Voltage_source</title>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 40.878111,39.031238 V 49.614572"
+         id="path6382"
+         inkscape:connector-curvature="0" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="path6384"
+         cx="40.878113"
+         cy="44.322906"
+         r="2.6458333" />
+    </symbol>
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -17639,9 +17655,9 @@
      fit-margin-left="0"
      fit-margin-top="0"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="1920"
-     inkscape:window-height="1161"
+     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:window-height="1129"
      inkscape:window-width="1920"
      inkscape:bbox-nodes="false"
      inkscape:snap-intersection-paths="false"
@@ -17652,8 +17668,8 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="760.24651"
-     inkscape:cx="1172.5694"
+     inkscape:cy="674.93832"
+     inkscape:cx="1147.4788"
      inkscape:zoom="0.59783241"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -18710,23 +18726,6 @@
          x="23.397026"
          id="tspan5189-7-6-3"
          sodipodi:role="line">Earth symbols</tspan></text>
-    <g
-       transform="translate(-14.419777,238.7813)"
-       id="g6657">
-      <title
-         id="title13846">Voltage_source</title>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 40.878111,39.031238 V 49.614572"
-         id="path6382"
-         inkscape:connector-curvature="0" />
-      <circle
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="path6384"
-         cx="40.878113"
-         cy="44.322906"
-         r="2.6458333" />
-    </g>
     <text
        id="text5191-94-3-37"
        y="44.939232"
@@ -48393,5 +48392,9 @@
     <use
        xlink:href="#GaN_HEMPT_Depletion"
        id="use53" />
+    <use
+       xlink:href="#voltage_source"
+       id="use1"
+       transform="translate(-14.419777,238.7813)" />
   </g>
 </svg>
