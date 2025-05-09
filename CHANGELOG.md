@@ -15,7 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
  - input arrow missing for 'Limitation' block diagrams
  - Arrows did not look good in GaN HEMPT Enhancement / Depletion type
- - Missing voltage source when use the library as inkscape symbols
+ - Missing voltage source when use the library as Inkscape symbols
 
 ## [1.6.0] - 2024-08-27 
 ### Added     
