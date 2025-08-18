@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Control block for hysteresis
  - Opto-isolators
  - Phototransistors (NPN, PNP)
+ - Motor with integrated inductance/sources
  
 ### Fixed
  - input arrow missing for 'Limitation' block diagrams
