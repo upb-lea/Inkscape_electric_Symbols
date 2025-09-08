@@ -116,6 +116,7 @@ Arch Linux based systems:
 pacman install otf-latin-modern otf-latinmodern-math
 ```
 Now, you will find the font `Latin Modern Roman` inside your Inkscape fonts.
+If not available, look for `LMRoman12` or any other number in the end, where the number represents the font size.
 
 
 # Bug Reports
