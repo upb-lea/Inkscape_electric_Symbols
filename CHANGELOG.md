@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Motor with integrated inductance/sources
  - OTA (operational transconductance amplifier)
  - another version of common used current source symbol
+ - generic NMOS / PMOS symbols
  
 ### Fixed
  - input arrow missing for 'Limitation' block diagrams
